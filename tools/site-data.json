@@ -1,0 +1,3666 @@
+{
+ "pages": {
+  "charcoals-and--pastel": {
+   "title": "Charcoal & Pastel",
+   "nav": "Charcoals & Pastel",
+   "blocks": [
+    {
+     "type": "heading",
+     "text": "Charcoal & Pastel"
+    },
+    {
+     "type": "note",
+     "text": "Click on any image to preview"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_3196409e664545379db8a14c3fbdb2db.jpg",
+       "w": 720,
+       "h": 528,
+       "title": "Sword & Cross",
+       "desc": [
+        "20x30",
+        "Toned Paper",
+        "Charcoal"
+       ],
+       "alt": "Sword & Cross by Michael Reigle Wagner",
+       "keywords": "Sword & Cross 20x30 Toned Paper Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/sword-and-cross-319640.jpg"
+      },
+      {
+       "uri": "346dd1_9ef82d65f91d408883cc67724b8e0e30.jpg",
+       "w": 498,
+       "h": 720,
+       "title": "Self Portrait",
+       "desc": [
+        "46 x 30",
+        "Toned Paper",
+        "Charcoal",
+        "Colored Charcoal"
+       ],
+       "alt": "Self Portrait by Michael Reigle Wagner",
+       "keywords": "Self Portrait 46 x 30 Toned Paper Charcoal Colored Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/self-portrait-9ef82d.jpg"
+      },
+      {
+       "uri": "346dd1_31c41338abd84d2685296d2aa73d26cc.jpg",
+       "w": 537,
+       "h": 696,
+       "title": "Fire & Water",
+       "desc": [
+        "30 x 20",
+        "Charcoal",
+        "Pastel"
+       ],
+       "alt": "Fire & Water by Michael Reigle Wagner",
+       "keywords": "Fire & Water 30 x 20 Charcoal Pastel Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/fire-and-water-31c413.jpg"
+      },
+      {
+       "uri": "346dd1_8280f1d973134becb13c30832f087036.jpg",
+       "w": 420,
+       "h": 720,
+       "title": "Fire Hydrant",
+       "desc": [
+        "35 x 20",
+        "Salmon Toned Paper",
+        "Charcoal",
+        "White Charcoal"
+       ],
+       "alt": "Fire Hydrant by Michael Reigle Wagner",
+       "keywords": "Fire Hydrant 35 x 20 Salmon Toned Paper Charcoal White Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/fire-hydrant-8280f1.jpg"
+      },
+      {
+       "uri": "346dd1_9adadbbd2a1a471da4fe7ca47473fa97.jpg",
+       "w": 720,
+       "h": 561,
+       "title": "Key Hole",
+       "desc": [
+        "20 x 30",
+        "Gray Toned Paper",
+        "Charcoal",
+        "White Charcoal"
+       ],
+       "alt": "Key Hole by Michael Reigle Wagner",
+       "keywords": "Key Hole 20 x 30 Gray Toned Paper Charcoal White Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/key-hole-9adadb.jpg"
+      },
+      {
+       "uri": "346dd1_fcfd4c15de5942f78f0b86fdbd78abc3.jpg",
+       "w": 400,
+       "h": 720,
+       "title": "Travis",
+       "desc": [
+        "36 x 18",
+        "Charcoal"
+       ],
+       "alt": "Travis by Michael Reigle Wagner",
+       "keywords": "Travis 36 x 18 Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/travis-fcfd4c.jpg"
+      },
+      {
+       "uri": "346dd1_21518f3c9685458daf57334a553b8434.jpg",
+       "w": 472,
+       "h": 720,
+       "title": "Emily",
+       "desc": [
+        "30 x 20",
+        "Charcoal",
+        "Colored Charcoal"
+       ],
+       "alt": "Emily by Michael Reigle Wagner",
+       "keywords": "Emily 30 x 20 Charcoal Colored Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/emily-21518f.jpg"
+      },
+      {
+       "uri": "346dd1_5b3ff5f6015748f18875ac6a9814af3a.jpg",
+       "w": 3498,
+       "h": 2643,
+       "title": "Flora",
+       "desc": [
+        "20 x 30",
+        "Charcoal",
+        "Ink"
+       ],
+       "alt": "Flora by Michael Reigle Wagner",
+       "keywords": "Flora 20 x 30 Charcoal Ink Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/flora-5b3ff5.jpg"
+      },
+      {
+       "uri": "346dd1_9c73f4d712484a158733de96277c8a30.jpg",
+       "w": 720,
+       "h": 612,
+       "title": "Own Worst Enemy",
+       "desc": [
+        "20 x 30",
+        "Charcoal"
+       ],
+       "alt": "Own Worst Enemy by Michael Reigle Wagner",
+       "keywords": "Own Worst Enemy 20 x 30 Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/own-worst-enemy-9c73f4.jpg"
+      },
+      {
+       "uri": "346dd1_884d147c24f74e048e29043a3bafa5ed.jpg",
+       "w": 1744,
+       "h": 3051,
+       "title": "The Crow's Nest",
+       "desc": [
+        "32 x 16",
+        "Gray Toned Paper",
+        "Charcoal",
+        "White Charcoal"
+       ],
+       "alt": "The Crow's Nest by Michael Reigle Wagner",
+       "keywords": "The Crow's Nest 32 x 16 Gray Toned Paper Charcoal White Charcoal Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/the-crow-s-nest-884d14.jpg"
+      },
+      {
+       "uri": "346dd1_617a29c73f7b4df49ed0917f5426fd54.jpg",
+       "w": 2460,
+       "h": 2236,
+       "title": "Collage",
+       "desc": [
+        "20 x 24",
+        "Assorted Paper",
+        "Charcoal",
+        "Pastel",
+        "Ink"
+       ],
+       "alt": "Collage by Michael Reigle Wagner",
+       "keywords": "Collage 20 x 24 Assorted Paper Charcoal Pastel Ink",
+       "file": "charcoals-and--pastel/collage-617a29.jpg"
+      },
+      {
+       "uri": "346dd1_265d2bb9a37c4505b51bfdad607a096c.jpg",
+       "w": 1919,
+       "h": 2804,
+       "title": "Marley",
+       "desc": [
+        "28 x 14",
+        "Gray Toned Paper",
+        "Charcoal",
+        "White Charcoal"
+       ],
+       "alt": "Marley by Michael Reigle Wagner",
+       "keywords": "Marley 28 x 14 Gray Toned Paper Charcoal White Charcoal",
+       "file": "charcoals-and--pastel/marley-265d2b.jpg"
+      },
+      {
+       "uri": "346dd1_6dab59a2bb12496bac4e76e698a46846.jpg",
+       "w": 3140,
+       "h": 2374,
+       "title": "Dream Waves",
+       "desc": [
+        "18 x 28",
+        "Pastel"
+       ],
+       "alt": "Dream Waves by Michael Reigle Wagner",
+       "keywords": "Dream Waves 18 x 28 Pastel",
+       "file": "charcoals-and--pastel/dream-waves-6dab59.jpg"
+      },
+      {
+       "uri": "346dd1_ad67dde24e6843ad9cb374764542314f.jpg",
+       "w": 5392,
+       "h": 2520,
+       "title": "The Final Supper",
+       "desc": [
+        "30 x 70",
+        "Charcoal",
+        "Colored Charcoal"
+       ],
+       "alt": "The Final Supper by Michael Reigle Wagner",
+       "keywords": "The Final Supper 30 x 70 Charcoal Colored Charcoal",
+       "file": "charcoals-and--pastel/the-final-supper-ad67dd.jpg"
+      },
+      {
+       "uri": "346dd1_e39186a85bf74cecbd46ac7165fd1fae.jpg",
+       "w": 3568,
+       "h": 2751,
+       "title": "Dean",
+       "desc": [
+        "18 x 28",
+        "Pastel",
+        "White Charcoal"
+       ],
+       "alt": "Dean by Michael Reigle Wagner",
+       "keywords": "Dean 18 x 28 Pastel White Charcoal",
+       "file": "charcoals-and--pastel/dean-e39186.jpg"
+      },
+      {
+       "uri": "346dd1_c65a3e007a094769acd48e664c83b79a.jpg",
+       "w": 2530,
+       "h": 3565,
+       "title": "Ready",
+       "desc": [
+        "28 x 20",
+        "Ink",
+        "Charcoal"
+       ],
+       "alt": "Ready by Michael Reigle Wagner",
+       "keywords": "Ready 28 x 20 Ink Charcoal",
+       "file": "charcoals-and--pastel/ready-c65a3e.jpg"
+      },
+      {
+       "uri": "346dd1_915459555a484088b1170e583caa363e.jpg",
+       "w": 2827,
+       "h": 2160,
+       "title": "Electric",
+       "desc": [
+        "18 x 28",
+        "Gray Tone Paper",
+        "Charcoal",
+        "White Charcoal"
+       ],
+       "alt": "Electric by Michael Reigle Wagner",
+       "keywords": "Electric 18 x 28 Gray Tone Paper Charcoal White Charcoal",
+       "file": "charcoals-and--pastel/electric-915459.jpg"
+      },
+      {
+       "uri": "346dd1_a09c5a8a2821401f8bcffc5a64f19eb8.jpg",
+       "w": 2128,
+       "h": 2980,
+       "title": "2 Face",
+       "desc": [
+        "30 x 20",
+        "Pastel"
+       ],
+       "alt": "2 Face by Michael Reigle Wagner",
+       "keywords": "2 Face 30 x 20 Pastel",
+       "file": "charcoals-and--pastel/2-face-a09c5a.jpg"
+      },
+      {
+       "uri": "346dd1_0528d4894c1d4fb5aa4276ea1e7b6cf8.jpg",
+       "w": 2688,
+       "h": 3780,
+       "title": "Life Drawing",
+       "desc": [
+        "24 x 14",
+        "Charcoal"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 24 x 14 Charcoal",
+       "file": "charcoals-and--pastel/life-drawing-0528d4.jpg"
+      },
+      {
+       "uri": "346dd1_2ef7115f140349389929f0eaac5b160d.jpg",
+       "w": 2874,
+       "h": 3503,
+       "title": "Collage",
+       "desc": [
+        "28 x 18",
+        "Ink",
+        "Colored Charcoal"
+       ],
+       "alt": "Collage by Michael Reigle Wagner",
+       "keywords": "Collage 28 x 18 Ink Colored Charcoal",
+       "file": "charcoals-and--pastel/collage-2ef711.jpg"
+      },
+      {
+       "uri": "346dd1_821deaab3da24feba2282238e78bb55c.jpg",
+       "w": 2180,
+       "h": 4085,
+       "title": "Life Drawing",
+       "desc": [
+        "30 x 17",
+        "Charcoal"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 30 x 17 Charcoal",
+       "file": "charcoals-and--pastel/life-drawing-821dea.jpg"
+      },
+      {
+       "uri": "346dd1_942ab9501649486d87b75589da2f1e94.jpg",
+       "w": 3702,
+       "h": 2787,
+       "title": "Life Drawing",
+       "desc": [
+        "20 x 30",
+        "Ink",
+        "Charcoal"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 20 x 30 Ink Charcoal",
+       "file": "charcoals-and--pastel/life-drawing-942ab9.jpg"
+      },
+      {
+       "uri": "346dd1_94c4c5dc35004b2aa8f40eb32df986db.jpg",
+       "w": 2136,
+       "h": 3000,
+       "title": "Johny",
+       "desc": [
+        "18 x 12",
+        "Charcoal",
+        "Colored Charcoal"
+       ],
+       "alt": "Johny by Michael Reigle Wagner",
+       "keywords": "Johny 18 x 12 Charcoal Colored Charcoal",
+       "file": "charcoals-and--pastel/johny-94c4c5.jpg"
+      },
+      {
+       "uri": "346dd1_7afd521bedaa42108c6a0ad1e7ff3156.jpg",
+       "w": 2528,
+       "h": 2940,
+       "title": "Life Drawing",
+       "desc": [
+        "16 x 12",
+        "Charcoal"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 16 x 12 Charcoal",
+       "file": "charcoals-and--pastel/life-drawing-7afd52.jpg"
+      },
+      {
+       "uri": "346dd1_ffa6a85756cd4157aaeebcc788982b7e.jpg",
+       "w": 490,
+       "h": 720,
+       "title": "Hair Study",
+       "desc": [
+        "30 x 20",
+        "Charcoal",
+        "Colored Charcoal"
+       ],
+       "alt": "Hair Study by Michael Reigle Wagner",
+       "keywords": "Hair Study 30 x 20 Charcoal Colored Charcoal",
+       "file": "charcoals-and--pastel/hair-study-ffa6a8.jpg"
+      },
+      {
+       "uri": "346dd1_6647b528fdf4472582ba1c9ce180d57c.jpg",
+       "w": 2535,
+       "h": 3440,
+       "title": "Life Drawing",
+       "desc": [
+        "24 x 18",
+        "Charcoal"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 24 x 18 Charcoal",
+       "file": "charcoals-and--pastel/life-drawing-6647b5.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_d434057105974e66beb43b65da972f7b~mv2_d_2808_3648_s_4_2.jpg",
+       "w": 2808,
+       "h": 3648,
+       "title": "look",
+       "desc": [
+        "Charcoal Drawing",
+        "Portrait"
+       ],
+       "alt": "look by Michael Reigle Wagner",
+       "keywords": "look Michael Reigle Wagner Charcoal Drawing Portrait",
+       "file": "charcoals-and--pastel/look-d43405.jpg"
+      },
+      {
+       "uri": "346dd1_c1fc6d96c42d410d9d5dad94089e3081~mv2_d_2713_2112_s_2.jpg",
+       "w": 2713,
+       "h": 2112,
+       "title": "Alex",
+       "desc": [
+        "Charcoal Drawing",
+        "Portrait"
+       ],
+       "alt": "Alex by Michael Reigle Wagner",
+       "keywords": "Alex Michael Reigle Wagner Charcoal Drawing Portrait",
+       "file": "charcoals-and--pastel/alex-c1fc6d.jpg"
+      },
+      {
+       "uri": "346dd1_7ba0a9abe6b540a384e44ec716a1a48a~mv2_d_3048_2725_s_4_2.jpg",
+       "w": 3048,
+       "h": 2725,
+       "title": "Look at me",
+       "desc": [
+        "Charcoal Drawing",
+        "Portrait"
+       ],
+       "alt": "Look at me by Michael Reigle Wagner",
+       "keywords": "Look at me Michael Reigle Wagner Charcoal Drawing Portrait",
+       "file": "charcoals-and--pastel/look-at-me-7ba0a9.jpg"
+      },
+      {
+       "uri": "346dd1_1b87572941b14d29a53e5691267ef8e3~mv2_d_3024_3900_s_4_2.jpg",
+       "w": 3024,
+       "h": 3900,
+       "title": "Cassidydrawing",
+       "desc": [
+        "Charcoal Drawing",
+        "Portrait"
+       ],
+       "alt": "Cassidydrawing by Michael Reigle Wagner",
+       "keywords": "Cassidydrawing Michael Reigle Wagner Charcoal Drawing Portrait",
+       "file": "charcoals-and--pastel/cassidydrawing-1b8757.jpg"
+      },
+      {
+       "uri": "346dd1_92d11252706b4573929e115d603f09f4~mv2_d_2978_4032_s_4_2.jpg",
+       "w": 2978,
+       "h": 4032,
+       "title": "Khasi",
+       "desc": [
+        "Charcoal Drawing",
+        "Portrait"
+       ],
+       "alt": "Khasi by Michael Reigle Wagner",
+       "keywords": "Khasi Michael Reigle Wagner Charcoal Drawing Portrait",
+       "file": "charcoals-and--pastel/khasi-92d112.jpg"
+      },
+      {
+       "uri": "346dd1_f056d34e5a4843f1913c85f1708f00e5~mv2_d_2928_3936_s_4_2.jpg",
+       "w": 2928,
+       "h": 3936,
+       "title": "Kodi drawing",
+       "desc": [
+        "Charcoal Drawing",
+        "Portrait"
+       ],
+       "alt": "Kodi drawing by Michael Reigle Wagner",
+       "keywords": "Kodi drawing Michael Reigle Wagner Charcoal Drawing Portrait",
+       "file": "charcoals-and--pastel/kodi-drawing-f056d3.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_884d147c24f74e048e29043a3bafa5ed.jpg",
+       "w": 1744,
+       "h": 3051,
+       "title": "The Crows Nest",
+       "desc": [
+        "20 x 10",
+        "Gray Toned Paper",
+        "Charcoal",
+        "White Charcoal",
+        "Charcoal Drawing"
+       ],
+       "alt": "The Crows Nest by Michael Reigle Wagner",
+       "keywords": "The Crows Nest 20 x 10 Gray Toned Paper Charcoal White Charcoal Michael Reigle Wagner Charcoal Drawing",
+       "file": "charcoals-and--pastel/the-crow-s-nest-884d14.jpg"
+      },
+      {
+       "uri": "346dd1_c65a3e007a094769acd48e664c83b79a.jpg",
+       "w": 2530,
+       "h": 3565,
+       "title": "Ready",
+       "desc": [
+        "28 X 18",
+        "Ink"
+       ],
+       "alt": "Ready by Michael Reigle Wagner",
+       "keywords": "Ready 28 X 18 Ink Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/ready-c65a3e.jpg"
+      },
+      {
+       "uri": "346dd1_617a29c73f7b4df49ed0917f5426fd54.jpg",
+       "w": 2460,
+       "h": 2236,
+       "title": "Collage",
+       "desc": [
+        "20 x 24",
+        "Charcoal",
+        "Pastel"
+       ],
+       "alt": "Collage by Michael Reigle Wagner",
+       "keywords": "Collage 20 x 24 Charcoal Pastel Michael Reigle Wagner",
+       "file": "charcoals-and--pastel/collage-617a29.jpg"
+      },
+      {
+       "uri": "346dd1_265d2bb9a37c4505b51bfdad607a096c.jpg",
+       "w": 1919,
+       "h": 2804,
+       "title": "Marley",
+       "desc": [
+        "20 x 12",
+        "Gray Toned Paper",
+        "Charcoal",
+        "White Charcoal",
+        "Drawing"
+       ],
+       "alt": "Marley by Michael Reigle Wagner",
+       "keywords": "Marley 20 x 12 Gray Toned Paper Charcoal White Charcoal Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/marley-265d2b.jpg"
+      },
+      {
+       "uri": "346dd1_6dab59a2bb12496bac4e76e698a46846.jpg",
+       "w": 3140,
+       "h": 2374,
+       "title": "Dream Waves",
+       "desc": [
+        "18 x 24",
+        "Pastel",
+        "Drawing"
+       ],
+       "alt": "Dream Waves by Michael Reigle Wagner",
+       "keywords": "Dream Waves 18 x 24 Pastel Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/dream-waves-6dab59.jpg"
+      },
+      {
+       "uri": "346dd1_ad67dde24e6843ad9cb374764542314f.jpg",
+       "w": 5392,
+       "h": 2520,
+       "title": "The Final Supper",
+       "desc": [
+        "28 x 70",
+        "Gray Toned Paper",
+        "Colored Charcoal",
+        "Drawing"
+       ],
+       "alt": "The Final Supper by Michael Reigle Wagner",
+       "keywords": "The Final Supper 28 x 70 Gray Toned Paper Colored Charcoal Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/the-final-supper-ad67dd.jpg"
+      },
+      {
+       "uri": "346dd1_0528d4894c1d4fb5aa4276ea1e7b6cf8.jpg",
+       "w": 2688,
+       "h": 3780,
+       "title": "Life Drawing",
+       "desc": [
+        "28 x 18",
+        "Charcoal",
+        "Drawing"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 28 x 18 Charcoal Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/life-drawing-0528d4.jpg"
+      },
+      {
+       "uri": "346dd1_a09c5a8a2821401f8bcffc5a64f19eb8.jpg",
+       "w": 2128,
+       "h": 2980,
+       "title": "Two Face",
+       "desc": [
+        "30 x 20",
+        "Pastel",
+        "Drawing"
+       ],
+       "alt": "Two Face by Michael Reigle Wagner",
+       "keywords": "Two Face 30 x 20 Pastel Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/2-face-a09c5a.jpg"
+      },
+      {
+       "uri": "346dd1_915459555a484088b1170e583caa363e.jpg",
+       "w": 2827,
+       "h": 2160,
+       "title": "Angle of Death",
+       "desc": [
+        "18 x 26",
+        "Gray Toned Paper",
+        "Charcoal",
+        "White Charcoal",
+        "Drawing"
+       ],
+       "alt": "Angle of Death by Michael Reigle Wagner",
+       "keywords": "Angle of Death 18 x 26 Gray Toned Paper Charcoal White Charcoal Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/electric-915459.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_2ef7115f140349389929f0eaac5b160d.jpg",
+       "w": 2874,
+       "h": 3503,
+       "title": "Collage Drawing",
+       "desc": [
+        "28 x 18",
+        "Ink",
+        "Colored Charcoal",
+        "Drawing"
+       ],
+       "alt": "Collage Drawing by Michael Reigle Wagner",
+       "keywords": "Collage Drawing 28 x 18 Ink Colored Charcoal Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/collage-2ef711.jpg"
+      },
+      {
+       "uri": "346dd1_7afd521bedaa42108c6a0ad1e7ff3156.jpg",
+       "w": 2528,
+       "h": 2940,
+       "title": "Life Drawing",
+       "desc": [
+        "20 x 16",
+        "charcoal",
+        "Drawing"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 20 x 16 charcoal Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/life-drawing-7afd52.jpg"
+      },
+      {
+       "uri": "346dd1_942ab9501649486d87b75589da2f1e94.jpg",
+       "w": 3702,
+       "h": 2787,
+       "title": "Life Drawing",
+       "desc": [
+        "18 x 28",
+        "Ink",
+        "Drawing"
+       ],
+       "alt": "Life Drawing by Michael Reigle Wagner",
+       "keywords": "Life Drawing 18 x 28 Ink Michael Reigle Wagner Drawing",
+       "file": "charcoals-and--pastel/life-drawing-942ab9.jpg"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_6e086f6eba81414bb73259f32868cba4~mv2.jpg",
+      "w": 4333,
+      "h": 2987,
+      "title": "diamond cave",
+      "desc": [],
+      "alt": "diamond cave by Michael Reigle Wagner",
+      "keywords": "diamond cave Michael Reigle Wagner Drawing diamond cave Michael Reigle Wagner Drawing",
+      "file": "charcoals-and--pastel/diamond-cave-6e086f.jpg"
+     }
+    }
+   ]
+  },
+  "oils-on-canvas-": {
+   "title": "Oils & Acrylics",
+   "nav": "Acrylic & Oil",
+   "blocks": [
+    {
+     "type": "heading",
+     "text": "Oils & Acrylics"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_85d4f32088674093b157b08453589f24~mv2.jpg",
+       "w": 2761,
+       "h": 3466,
+       "title": "Arabic Portrait",
+       "desc": [],
+       "alt": "Arabic Portrait by Michael Reigle Wagner",
+       "keywords": "Arabic Portrait",
+       "file": "oils-on-canvas-/arabic-portrait-85d4f3.jpg"
+      },
+      {
+       "uri": "346dd1_fd5dcf5f95524375ac4957b715bdcdb4~mv2.jpg",
+       "w": 2620,
+       "h": 3242,
+       "title": "portrait 3 unfinished",
+       "desc": [],
+       "alt": "portrait 3 unfinished by Michael Reigle Wagner",
+       "keywords": "portrait 3 unfinished",
+       "file": "oils-on-canvas-/portrait-3-unfinished-fd5dcf.jpg"
+      },
+      {
+       "uri": "346dd1_54ef6c89fab244e7ac9d465b0a1e15c0~mv2.jpg",
+       "w": 2359,
+       "h": 2972,
+       "title": "arab portrait 2",
+       "desc": [],
+       "alt": "arab portrait 2 by Michael Reigle Wagner",
+       "keywords": "arab portrait 2",
+       "file": "oils-on-canvas-/arab-portrait-2-54ef6c.jpg"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_1b41a13592374c86843867ca041fdc9e~mv2.jpg",
+      "w": 3414,
+      "h": 2713,
+      "title": "arabian knights",
+      "desc": [],
+      "alt": "arabian knights by Michael Reigle Wagner",
+      "keywords": "arabian knights.jpg arabian knights.jpg",
+      "file": "oils-on-canvas-/arabian-knights-1b41a1.jpg"
+     }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_aa14191c37414a55adcbb140bf0239c6~mv2.jpeg",
+       "w": 2717,
+       "h": 3248,
+       "title": "creation painting",
+       "desc": [],
+       "alt": "creation painting by Michael Reigle Wagner",
+       "keywords": "creation painting Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/creation-painting-aa1419.jpg"
+      },
+      {
+       "uri": "346dd1_db391ef9fc3c4bde8428dd601b63f7d6~mv2.jpeg",
+       "w": 2923,
+       "h": 3876,
+       "title": "Dali wagner",
+       "desc": [
+        "Dali inspired composition"
+       ],
+       "alt": "Dali wagner by Michael Reigle Wagner",
+       "keywords": "Dali wagner Michael Reigle Wagner surrealist oil painting Dali inspired composition psychedelic art",
+       "file": "oils-on-canvas-/dali-wagner-db391e.jpg"
+      },
+      {
+       "uri": "346dd1_bb125ebc02c343baabb40f0b83e6b994~mv2.jpeg",
+       "w": 2665,
+       "h": 3390,
+       "title": "mary mendala",
+       "desc": [
+        "virgin Marry"
+       ],
+       "alt": "mary mendala by Michael Reigle Wagner",
+       "keywords": "mary mendala Michael Reigle Wagner surrealist oil painting virgin Marry psychedelic art",
+       "file": "oils-on-canvas-/mary-mendala-bb125e.jpg"
+      },
+      {
+       "uri": "346dd1_2eb791e4cef24431814527d601c22cff~mv2.jpeg",
+       "w": 2782,
+       "h": 4128,
+       "title": "dancing lady",
+       "desc": [
+        "Neon Blacklight"
+       ],
+       "alt": "dancing lady by Michael Reigle Wagner",
+       "keywords": "dancing lady Michael Reigle Wagner surrealist oil painting Neon Blacklight psychedelic art",
+       "file": "oils-on-canvas-/dancing-lady-2eb791.jpg"
+      },
+      {
+       "uri": "346dd1_9dd9a1ce866845158265fbfd6419d428~mv2.jpeg",
+       "w": 2235,
+       "h": 4352,
+       "title": "neon sitting lady",
+       "desc": [
+        "Neon Blacklight"
+       ],
+       "alt": "neon sitting lady by Michael Reigle Wagner",
+       "keywords": "neon sitting lady Michael Reigle Wagner surrealist oil painting Neon Blacklight psychedelic art",
+       "file": "oils-on-canvas-/neon-sitting-lady-9dd9a1.jpg"
+      },
+      {
+       "uri": "346dd1_2c6b1ade35454e748d6adade93e33d5e~mv2.jpeg",
+       "w": 2193,
+       "h": 4420,
+       "title": "neon dancing",
+       "desc": [
+        "Neon Blacklight"
+       ],
+       "alt": "neon dancing by Michael Reigle Wagner",
+       "keywords": "neon dancing Michael Reigle Wagner surrealist oil painting Neon Blacklight psychedelic art",
+       "file": "oils-on-canvas-/neon-dancing-2c6b1a.jpg"
+      },
+      {
+       "uri": "346dd1_d8998147bf1b47a1b1d961664c289c95~mv2.png",
+       "w": 575,
+       "h": 718,
+       "title": "",
+       "desc": [
+        "sacred geometry"
+       ],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2024-08-26 at 5.43.43 PM Michael Reigle Wagner surrealist oil painting sacred geometry psychedelic art",
+       "file": "oils-on-canvas-/oils-on-canvas-d89981.png"
+      },
+      {
+       "uri": "346dd1_c521c42ed3b44d31a0071ab1deabb271~mv2.jpeg",
+       "w": 4110,
+       "h": 3072,
+       "title": "sleeping sky",
+       "desc": [
+        "sacred geometry"
+       ],
+       "alt": "sleeping sky by Michael Reigle Wagner",
+       "keywords": "sleeping sky Michael Reigle Wagner surrealist oil painting sacred geometry psychedelic art",
+       "file": "oils-on-canvas-/sleeping-sky-c521c4.jpg"
+      },
+      {
+       "uri": "346dd1_194211aa8cfb4a4d96ce4f1860eb8018~mv2.jpeg",
+       "w": 2161,
+       "h": 4289,
+       "title": "creationlady",
+       "desc": [
+        "anatomy"
+       ],
+       "alt": "creationlady by Michael Reigle Wagner",
+       "keywords": "creationlady Michael Reigle Wagner surrealist oil painting anatomy psychedelic art",
+       "file": "oils-on-canvas-/creationlady-194211.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_bc8ccce158a14cafbd1f415cffc5c7f9~mv2.jpeg",
+       "w": 2226,
+       "h": 4449,
+       "title": "art diptych left",
+       "desc": [
+        "neon diptych Egypt and Indian sacred geometry"
+       ],
+       "alt": "art diptych left by Michael Reigle Wagner",
+       "keywords": "art diptych left Michael Reigle Wagner surrealist oil painting neon diptych Egypt and Indian sacred geometry psychedelic art",
+       "file": "oils-on-canvas-/art-diptych-left-bc8ccc.jpg"
+      },
+      {
+       "uri": "346dd1_d4ccc5b236944bf3b80c140020aa36ed~mv2.jpeg",
+       "w": 2226,
+       "h": 4449,
+       "title": "art diptych right",
+       "desc": [
+        "neon diptych Egypt and Indian sacred geometry"
+       ],
+       "alt": "art diptych right by Michael Reigle Wagner",
+       "keywords": "art diptych right Michael Reigle Wagner surrealist oil painting neon diptych Egypt and Indian sacred geometry psychedelic art",
+       "file": "oils-on-canvas-/art-diptych-right-d4ccc5.jpg"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_5b81ae22e7914d879286d241874a371c~mv2.jpg",
+      "w": 3770,
+      "h": 2828,
+      "title": "drum circle",
+      "desc": [],
+      "alt": "drum circle by Michael Reigle Wagner",
+      "keywords": "drum circle Michael Reigle Wagner surrealist oil painting neon Native American Indian sacred geometry psychedelic art Native American Indian drum circle Michael Reigle Wagner surrealist oil painting neon Native American Indian sacred geometry psychedelic art Native American Indian",
+      "file": "oils-on-canvas-/drum-circle-5b81ae.jpg"
+     }
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_39dacc84e0ce4ae4bc90e616b8731bf2~mv2.jpg",
+      "w": 4333,
+      "h": 2190,
+      "title": "Peace pipe",
+      "desc": [],
+      "alt": "Peace pipe by Michael Reigle Wagner",
+      "keywords": "Peace pipe, Michael Reigle Wagner surrealist oil painting neon Native American Indian sacred geometry psychedelic art Native American Indian Peace pipe, Michael Reigle Wagner surrealist oil painting neon Native American Indian sacred geometry psychedelic art Native American Indian",
+      "file": "oils-on-canvas-/peace-pipe-39dacc.jpg"
+     }
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_e5e45c06945b4c15b79b597f03a139a9~mv2.jpg",
+      "w": 2976,
+      "h": 3768,
+      "title": "fire ceremony",
+      "desc": [],
+      "alt": "fire ceremony by Michael Reigle Wagner",
+      "keywords": "fire ceremony Michael Reigle Wagner surrealist oil painting neon Native American Indian sacred geometry psycodelec art fire ceremony Michael Reigle Wagner surrealist oil painting neon Native American Indian sacred geometry psycodelec art",
+      "file": "oils-on-canvas-/fire-ceremony-e5e45c.jpg"
+     }
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_c607f892ad774087a0b581dc79768c00~mv2.jpg",
+      "w": 3000,
+      "h": 2215,
+      "title": "golden dawn",
+      "desc": [],
+      "alt": "golden dawn by Michael Reigle Wagner",
+      "keywords": "golden dawn_edited.jpg golden dawn_edited.jpg",
+      "file": "oils-on-canvas-/golden-dawn-c607f8.jpg"
+     }
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_ea192eb7d7f442ca851ca67b3cb86a22~mv2.jpg",
+      "w": 3744,
+      "h": 2784,
+      "title": "Holy Mountain",
+      "desc": [],
+      "alt": "Holy Mountain by Michael Reigle Wagner",
+      "keywords": "Holy Mountain.jpg Holy Mountain.jpg",
+      "file": "oils-on-canvas-/holy-mountain-ea192e.jpg"
+     }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_d7cb7cfbb7d84fb8996fd3f4ab8b34ea~mv2.jpg",
+       "w": 4158,
+       "h": 2768,
+       "title": "atlantis nesos",
+       "desc": [],
+       "alt": "atlantis nesos by Michael Reigle Wagner",
+       "keywords": "atlantis nesos",
+       "file": "oils-on-canvas-/atlantis-nesos-d7cb7c.jpg"
+      },
+      {
+       "uri": "346dd1_88314d3e29b948e3a2449a24a89463a4~mv2.jpg",
+       "w": 2759,
+       "h": 3496,
+       "title": "woman robe",
+       "desc": [],
+       "alt": "woman robe by Michael Reigle Wagner",
+       "keywords": "woman robe",
+       "file": "oils-on-canvas-/woman-robe-88314d.jpg"
+      },
+      {
+       "uri": "346dd1_0cb1bff2743e4a5b8079bca2443fbf01~mv2.jpeg",
+       "w": 3608,
+       "h": 2712,
+       "title": "thinker",
+       "desc": [],
+       "alt": "thinker by Michael Reigle Wagner",
+       "keywords": "thinker",
+       "file": "oils-on-canvas-/thinker-0cb1bf.jpg"
+      },
+      {
+       "uri": "346dd1_bdd4b02341a84ec6b0d40877a982d5e1~mv2.jpg",
+       "w": 2742,
+       "h": 4159,
+       "title": "statue mandala",
+       "desc": [],
+       "alt": "statue mandala by Michael Reigle Wagner",
+       "keywords": "statue mandala",
+       "file": "oils-on-canvas-/statue-mandala-bdd4b0.jpg"
+      },
+      {
+       "uri": "346dd1_96b6afb5c22a4304abe17705fe676b3c~mv2.jpg",
+       "w": 2127,
+       "h": 4202,
+       "title": "fractle collage",
+       "desc": [],
+       "alt": "fractle collage by Michael Reigle Wagner",
+       "keywords": "fractle collage",
+       "file": "oils-on-canvas-/fractle-collage-96b6af.jpg"
+      },
+      {
+       "uri": "346dd1_e752a23a2af6499a93a50062cafad87c~mv2.jpg",
+       "w": 2645,
+       "h": 4209,
+       "title": "rough reshoot",
+       "desc": [],
+       "alt": "rough reshoot by Michael Reigle Wagner",
+       "keywords": "rough reshoot",
+       "file": "oils-on-canvas-/rough-reshoot-e752a2.jpg"
+      },
+      {
+       "uri": "346dd1_ebb362695b2b462984d1f7d0eabdccf2~mv2.jpg",
+       "w": 2602,
+       "h": 3991,
+       "title": "man vs beast",
+       "desc": [],
+       "alt": "man vs beast by Michael Reigle Wagner",
+       "keywords": "man vs beast",
+       "file": "oils-on-canvas-/man-vs-beast-ebb362.jpg"
+      },
+      {
+       "uri": "346dd1_473ca374969e427d9136079a4090e5b9~mv2.jpg",
+       "w": 4086,
+       "h": 2051,
+       "title": "past present and future",
+       "desc": [],
+       "alt": "past present and future by Michael Reigle Wagner",
+       "keywords": "past present and future",
+       "file": "oils-on-canvas-/past-present-and-future-473ca3.jpg"
+      },
+      {
+       "uri": "346dd1_c1afd005cb184a8d8c5a3e0491677847~mv2.jpg",
+       "w": 1379,
+       "h": 4179,
+       "title": "sodom gomorrah",
+       "desc": [],
+       "alt": "sodom gomorrah by Michael Reigle Wagner",
+       "keywords": "sodom gomorrah",
+       "file": "oils-on-canvas-/sodom-gomorrah-c1afd0.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_a5789cdb08584a799066ff934bd47452~mv2.jpg",
+       "w": 2789,
+       "h": 3496,
+       "title": "Degas Dancers 1",
+       "desc": [],
+       "alt": "Degas Dancers 1 by Michael Reigle Wagner",
+       "keywords": "Degas Dancers 1",
+       "file": "oils-on-canvas-/degas-dancers-1-a5789c.jpg"
+      },
+      {
+       "uri": "346dd1_7bd39ee07cac4263809c292c5937fc34~mv2.jpg",
+       "w": 2756,
+       "h": 3489,
+       "title": "Degas Dancers 2",
+       "desc": [],
+       "alt": "Degas Dancers 2 by Michael Reigle Wagner",
+       "keywords": "Degas Dancers 2",
+       "file": "oils-on-canvas-/degas-dancers-2-7bd39e.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_84743e4139db4f07a9362b7869df9760.jpg",
+       "w": 577,
+       "h": 692,
+       "title": "Swanephant",
+       "desc": [
+        "18 x 12",
+        "Oil on Canvas"
+       ],
+       "alt": "Swanephant by Michael Reigle Wagner",
+       "keywords": "Swanephant 18 x 12 Oil on Canvas Michael Reigle Wagner surrealist oil painting",
+       "file": "oils-on-canvas-/swanephant-84743e.jpg"
+      },
+      {
+       "uri": "346dd1_e9781c95a919417bad8dd71b58d7853f.jpg",
+       "w": 720,
+       "h": 720,
+       "title": "Cigar Rose",
+       "desc": [
+        "40 x 40",
+        "Oil on Canvas"
+       ],
+       "alt": "Cigar Rose by Michael Reigle Wagner",
+       "keywords": "Cigar Rose 40 x 40 Oil on Canvas Michael Reigle Wagner surrealist oil painting",
+       "file": "oils-on-canvas-/cigar-rose-e9781c.jpg"
+      },
+      {
+       "uri": "346dd1_27ed83a050e543aca526945c9f76384f.jpg",
+       "w": 2907,
+       "h": 2170,
+       "title": "Ayatollah Propaganda",
+       "desc": [
+        "20 x 28",
+        "Oil on Canvas"
+       ],
+       "alt": "Ayatollah Propaganda by Michael Reigle Wagner",
+       "keywords": "Ayatollah Propaganda 20 x 28 Oil on Canvas Michael Reigle Wagner surrealist oil painting",
+       "file": "oils-on-canvas-/ayatollah-propaganda-27ed83.jpg"
+      },
+      {
+       "uri": "346dd1_c3fd4f4e8a2243f985729dedaf0f5a19.jpg",
+       "w": 713,
+       "h": 536,
+       "title": "Still Life #2",
+       "desc": [
+        "18 x 24",
+        "Oil on Canvas"
+       ],
+       "alt": "Still Life #2 by Michael Reigle Wagner",
+       "keywords": "Still Life #2 18 x 24 Oil on Canvas Michael Reigle Wagner stilllife",
+       "file": "oils-on-canvas-/still-life-2-c3fd4f.jpg"
+      },
+      {
+       "uri": "346dd1_35e4d1840e88446b8bff539811b01807.jpg",
+       "w": 370,
+       "h": 720,
+       "title": "Lost at Sea",
+       "desc": [
+        "30 x 12",
+        "Oil on Canvas"
+       ],
+       "alt": "Lost at Sea by Michael Reigle Wagner",
+       "keywords": "Lost at Sea 30 x 12 Oil on Canvas Michael Reigle Wagner",
+       "file": "oils-on-canvas-/lost-at-sea-35e4d1.jpg"
+      },
+      {
+       "uri": "346dd1_24a2d4e05a1141a097de82558e287cec.jpg",
+       "w": 661,
+       "h": 492,
+       "title": "A Game of Wits",
+       "desc": [
+        "20 x 30",
+        "Oil on Canvas",
+        "Hitler vs Ghandi chess painting"
+       ],
+       "alt": "A Game of Wits by Michael Reigle Wagner",
+       "keywords": "A Game of Wits 20 x 30 Oil on Canvas Michael Reigle Wagner Hitler vs Ghandi chess painting",
+       "file": "oils-on-canvas-/a-game-of-wits-24a2d4.jpg"
+      },
+      {
+       "uri": "346dd1_2a7c1ccf47d54dfba1924144569510e6.jpg",
+       "w": 3168,
+       "h": 2208,
+       "title": "Surreal Landscape",
+       "desc": [
+        "32 x 50",
+        "Oil on Canvas"
+       ],
+       "alt": "Surreal Landscape by Michael Reigle Wagner",
+       "keywords": "Surreal Landscape 32 x 50 Oil on Canvas Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/surreal-landscape-2a7c1c.jpg"
+      },
+      {
+       "uri": "346dd1_69f36a1c80da48ff9037e194b0972283.jpg",
+       "w": 2216,
+       "h": 2992,
+       "title": "Propaganda Portrait",
+       "desc": [
+        "30 x 20",
+        "Oil on Canvas"
+       ],
+       "alt": "Propaganda Portrait by Michael Reigle Wagner",
+       "keywords": "Propaganda Portrait 30 x 20 Oil on Canvas Michael Reigle Wagner Propaganda Art",
+       "file": "oils-on-canvas-/propaganda-portrait-69f36a.jpg"
+      },
+      {
+       "uri": "346dd1_efdb0ce1f4fc4e1b9e4f3a5a212b6591.jpg",
+       "w": 960,
+       "h": 762,
+       "title": "Tiny Voices",
+       "desc": [
+        "20 x 30",
+        "Oil on Canvas"
+       ],
+       "alt": "Tiny Voices by Michael Reigle Wagner",
+       "keywords": "Tiny Voices 20 x 30 Oil on Canvas Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/tiny-voices-efdb0c.jpg"
+      },
+      {
+       "uri": "346dd1_77290cf828284352a1c5121c532392ed.jpg",
+       "w": 480,
+       "h": 720,
+       "title": "Drip",
+       "desc": [
+        "35 x 22",
+        "Oil on Canvas"
+       ],
+       "alt": "Drip by Michael Reigle Wagner",
+       "keywords": "Drip 35 x 22 Oil on Canvas Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/drip-77290c.jpg"
+      },
+      {
+       "uri": "346dd1_4642f1e70ca34b268b68f9e5003c2acf.jpg",
+       "w": 2796,
+       "h": 2165,
+       "title": "Desert Haze",
+       "desc": [
+        "12 x 18",
+        "Oil on Canvas"
+       ],
+       "alt": "Desert Haze by Michael Reigle Wagner",
+       "keywords": "Desert Haze 12 x 18 Oil on Canvas Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/desert-haze-4642f1.jpg"
+      },
+      {
+       "uri": "346dd1_a546ceac9a584728a152ebb4ecfce613.jpg",
+       "w": 2232,
+       "h": 2804,
+       "title": "Poster Study",
+       "desc": [
+        "28 x 18",
+        "Oil on Canvas"
+       ],
+       "alt": "Poster Study by Michael Reigle Wagner",
+       "keywords": "Poster Study 28 x 18 Oil on Canvas Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/poster-study-a546ce.jpg"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_5e4a92a4bc6f4b62a1bd7e534e82d7c7~mv2_d_10326_4213_s_4_2.jpg",
+      "w": 10326,
+      "h": 4213,
+      "title": "trippytic3",
+      "desc": [],
+      "alt": "trippytic3 by Michael Reigle Wagner",
+      "keywords": "trippytic3 Michael Reigle Wagner surrealist oil painting psychedelic art trippytic3 Michael Reigle Wagner surrealist oil painting psychedelic art",
+      "file": "oils-on-canvas-/trippytic3-5e4a92.jpg"
+     }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_29ab7e150c754b3aa935e42391ec134b~mv2_d_2929_2898_s_4_2.jpg",
+       "w": 2929,
+       "h": 2898,
+       "title": "eat me",
+       "desc": [],
+       "alt": "eat me by Michael Reigle Wagner",
+       "keywords": "eat me, Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/eat-me-29ab7e.jpg"
+      },
+      {
+       "uri": "346dd1_6a42d66a7a76427990d6e39237bec475~mv2_d_5728_5358_s_4_2.jpg",
+       "w": 5728,
+       "h": 5358,
+       "title": "How many faces",
+       "desc": [],
+       "alt": "How many faces by Michael Reigle Wagner",
+       "keywords": "How many faces, Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/how-many-faces-6a42d6.jpg"
+      },
+      {
+       "uri": "346dd1_85217602b16941f5916fe938d40989b1~mv2_d_2654_2662_s_4_2.jpg",
+       "w": 2654,
+       "h": 2662,
+       "title": "vishion",
+       "desc": [],
+       "alt": "vishion by Michael Reigle Wagner",
+       "keywords": "vishion, Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/vishion-852176.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_bc4c184660484450bded11f68ad7aab2~mv2.jpeg",
+       "w": 2840,
+       "h": 3795,
+       "title": "triptych left",
+       "desc": [],
+       "alt": "triptych left by Michael Reigle Wagner",
+       "keywords": "triptych left, Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/triptych-left-bc4c18.jpg"
+      },
+      {
+       "uri": "346dd1_a8cca45aa84e40a3b0471802d19cd540~mv2.jpeg",
+       "w": 2789,
+       "h": 3711,
+       "title": "triptych center",
+       "desc": [],
+       "alt": "triptych center by Michael Reigle Wagner",
+       "keywords": "triptych center,Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/triptych-center-a8cca4.jpg"
+      },
+      {
+       "uri": "346dd1_17a759102e8840f09e6ad1aa141af77e~mv2.png",
+       "w": 430,
+       "h": 566,
+       "title": "Tryptic Right",
+       "desc": [],
+       "alt": "Tryptic Right by Michael Reigle Wagner",
+       "keywords": "Tryptic Right, Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/tryptic-right-17a759.png"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_bbff7509bb8e4619911b2da1222e46ec~mv2.jpg",
+       "w": 4255,
+       "h": 2644,
+       "title": "surreal landscape 30 x 40",
+       "desc": [],
+       "alt": "surreal landscape 30 x 40 by Michael Reigle Wagner",
+       "keywords": "surreal landscape 30 x 40 Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/surreal-landscape-30-x-40-bbff75.jpg"
+      },
+      {
+       "uri": "346dd1_b0a653358de549038dbf0375f54d6de5~mv2.jpg",
+       "w": 3768,
+       "h": 2844,
+       "title": "surreal landscape pyrmid",
+       "desc": [],
+       "alt": "surreal landscape pyrmid by Michael Reigle Wagner",
+       "keywords": "surreal landscape pyrmid Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/surreal-landscape-pyrmid-b0a653.jpg"
+      },
+      {
+       "uri": "346dd1_fbe9ab9f9bc6494181a8f8b4381aa3dd~mv2.jpg",
+       "w": 3696,
+       "h": 2796,
+       "title": "surreal dreamscape 4",
+       "desc": [],
+       "alt": "surreal dreamscape 4 by Michael Reigle Wagner",
+       "keywords": "surreal dreamscape 4",
+       "file": "oils-on-canvas-/surreal-dreamscape-4-fbe9ab.jpg"
+      },
+      {
+       "uri": "346dd1_aaf6bdbeaf3f419eb6820381da4c22bc~mv2.jpg",
+       "w": 4183,
+       "h": 2747,
+       "title": "Surreal Landscape 4",
+       "desc": [],
+       "alt": "Surreal Landscape 4 by Michael Reigle Wagner",
+       "keywords": "Surreal Landscape 4",
+       "file": "oils-on-canvas-/surreal-landscape-4-aaf6bd.jpg"
+      },
+      {
+       "uri": "346dd1_5bdac196d913497baca01b65b0aa7a47~mv2.jpg",
+       "w": 2833,
+       "h": 4467,
+       "title": "as above so belo",
+       "desc": [],
+       "alt": "as above so belo by Michael Reigle Wagner",
+       "keywords": "as above so belo Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/as-above-so-belo-5bdac1.jpg"
+      },
+      {
+       "uri": "346dd1_6056161348d940509c3907fd397406c6~mv2.jpg",
+       "w": 2293,
+       "h": 4608,
+       "title": "mc esher pattern",
+       "desc": [],
+       "alt": "mc esher pattern by Michael Reigle Wagner",
+       "keywords": "mc esher pattern Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/mc-esher-pattern-605616.jpg"
+      },
+      {
+       "uri": "346dd1_d0a37b43c5ae4fdc8a0d2de458f22291~mv2.jpg",
+       "w": 3000,
+       "h": 2388,
+       "title": "robe room",
+       "desc": [],
+       "alt": "robe room by Michael Reigle Wagner",
+       "keywords": "robe room_edited Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/robe-room-d0a37b.jpg"
+      },
+      {
+       "uri": "346dd1_1a012b4f4c9d46b58316392028c83ce5~mv2.jpg",
+       "w": 3072,
+       "h": 3819,
+       "title": "dali black",
+       "desc": [],
+       "alt": "dali black by Michael Reigle Wagner",
+       "keywords": "dali black Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/dali-black-1a012b.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_0fdaa8a3f8514ad5a7c8ffd8b666d3a7~mv2.jpg",
+       "w": 2780,
+       "h": 3422,
+       "title": "moon ladies good",
+       "desc": [],
+       "alt": "moon ladies good by Michael Reigle Wagner",
+       "keywords": "moon ladies good",
+       "file": "oils-on-canvas-/moon-ladies-good-0fdaa8.jpg"
+      },
+      {
+       "uri": "346dd1_0e812dcd7e7d4f419d57f073fcb87cd1~mv2.jpg",
+       "w": 2723,
+       "h": 3478,
+       "title": "blues faces",
+       "desc": [],
+       "alt": "blues faces by Michael Reigle Wagner",
+       "keywords": "blues faces",
+       "file": "oils-on-canvas-/blues-faces-0e812d.jpg"
+      },
+      {
+       "uri": "346dd1_485f4912961f41f08be9bc5bd1a50a12~mv2.jpg",
+       "w": 2817,
+       "h": 3433,
+       "title": "moon man",
+       "desc": [],
+       "alt": "moon man by Michael Reigle Wagner",
+       "keywords": "moon man",
+       "file": "oils-on-canvas-/moon-man-485f49.jpg"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_9a1f6461dee840ba9a894f700c313bff~mv2.jpg",
+      "w": 3049,
+      "h": 3072,
+      "title": "70s portrait",
+      "desc": [],
+      "alt": "70s portrait by Michael Reigle Wagner",
+      "keywords": "70s portrait, Michael Reigle Wagner surrealist oil painting psychedelic art 70s portrait, Michael Reigle Wagner surrealist oil painting psychedelic art",
+      "file": "oils-on-canvas-/70s-portrait-9a1f64.jpg"
+     }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_0a4dd926fb994378843171822a838afc~mv2.jpg",
+       "w": 2697,
+       "h": 3440,
+       "title": "mr squiggles",
+       "desc": [],
+       "alt": "mr squiggles by Michael Reigle Wagner",
+       "keywords": "mr squiggles Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/mr-squiggles-0a4dd9.jpg"
+      },
+      {
+       "uri": "346dd1_56d43e87f55e44448cc55ae50e7ba6e0~mv2.jpg",
+       "w": 3535,
+       "h": 2798,
+       "title": "octofungi",
+       "desc": [],
+       "alt": "octofungi by Michael Reigle Wagner",
+       "keywords": "octofungi Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/octofungi-56d43e.jpg"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_1eef388bad2740ef9795d3eee5396bd9~mv2.jpg",
+      "w": 4279,
+      "h": 2144,
+      "title": "",
+      "desc": [],
+      "alt": "Artwork by Michael Reigle Wagner",
+      "keywords": "",
+      "file": "oils-on-canvas-/oils-on-canvas-1eef38.jpg"
+     }
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_6493a19400e64a1c8991ea160174af75~mv2.jpg",
+      "w": 3803,
+      "h": 2848,
+      "title": "",
+      "desc": [],
+      "alt": "Artwork by Michael Reigle Wagner",
+      "keywords": "",
+      "file": "oils-on-canvas-/oils-on-canvas-6493a1.jpg"
+     }
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_b11affbfc4b843a492ebd4ee0cd52abc~mv2.jpg",
+      "w": 2026,
+      "h": 4092,
+      "title": "",
+      "desc": [],
+      "alt": "Artwork by Michael Reigle Wagner",
+      "keywords": "",
+      "file": "oils-on-canvas-/oils-on-canvas-b11aff.jpg"
+     }
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_0aa38c09a41944b0a86e144ccea01522~mv2.jpg",
+      "w": 2065,
+      "h": 3996,
+      "title": "giraffe right",
+      "desc": [],
+      "alt": "giraffe right by Michael Reigle Wagner",
+      "keywords": "giraffe right, Michael Reigle Wagner surrealist oil painting psychedelic art giraffe right, Michael Reigle Wagner surrealist oil painting psychedelic art",
+      "file": "oils-on-canvas-/giraffe-right-0aa38c.jpg"
+     }
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_db7909b735b94adc9696a7227d490b77~mv2_d_2800_3376_s_4_2.jpg",
+       "w": 2800,
+       "h": 3376,
+       "title": "I think therefore I die",
+       "desc": [],
+       "alt": "I think therefore I die by Michael Reigle Wagner",
+       "keywords": "I think therefore I die Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/i-think-therefore-i-die-db7909.jpg"
+      },
+      {
+       "uri": "346dd1_5c9685377a604924bbb015d3aae39775~mv2_d_2672_3187_s_4_2.jpg",
+       "w": 2672,
+       "h": 3187,
+       "title": "Deflowering the virgin marry",
+       "desc": [],
+       "alt": "Deflowering the virgin marry by Michael Reigle Wagner",
+       "keywords": "Deflowering the virgin marry Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/deflowering-the-virgin-marry-5c9685.jpg"
+      },
+      {
+       "uri": "346dd1_66ed4ed4b67242d29402f3a9a62d622c~mv2_d_2777_3368_s_4_2.jpg",
+       "w": 2777,
+       "h": 3368,
+       "title": "merica",
+       "desc": [],
+       "alt": "merica by Michael Reigle Wagner",
+       "keywords": "merica Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/merica-66ed4e.jpg"
+      },
+      {
+       "uri": "346dd1_4642f1e70ca34b268b68f9e5003c2acf.jpg",
+       "w": 2796,
+       "h": 2165,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "IMG_1605.jpg Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/desert-haze-4642f1.jpg"
+      },
+      {
+       "uri": "346dd1_77290cf828284352a1c5121c532392ed.jpg",
+       "w": 480,
+       "h": 720,
+       "title": "melting",
+       "desc": [],
+       "alt": "melting by Michael Reigle Wagner",
+       "keywords": "melting.jpg Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/drip-77290c.jpg"
+      },
+      {
+       "uri": "346dd1_a546ceac9a584728a152ebb4ecfce613.jpg",
+       "w": 2232,
+       "h": 2804,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "IMG_1598.jpg Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/poster-study-a546ce.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_2c76295e59da4b3286a8627caebbe8f1~mv2.jpeg",
+       "w": 3574,
+       "h": 2648,
+       "title": "surreal landscape",
+       "desc": [],
+       "alt": "surreal landscape by Michael Reigle Wagner",
+       "keywords": "surreal landscape Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/surreal-landscape-2c7629.jpg"
+      },
+      {
+       "uri": "346dd1_a47e8efd70024e82aebf3e76ac91a23d~mv2.jpeg",
+       "w": 4248,
+       "h": 2149,
+       "title": "surrealist landscape",
+       "desc": [],
+       "alt": "surrealist landscape by Michael Reigle Wagner",
+       "keywords": "surrealist landscape Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/surrealist-landscape-a47e8e.jpg"
+      },
+      {
+       "uri": "346dd1_c7074351766b419ab60e65a00f8840ff~mv2.jpeg",
+       "w": 2199,
+       "h": 4397,
+       "title": "pyrmidportrait",
+       "desc": [],
+       "alt": "pyrmidportrait by Michael Reigle Wagner",
+       "keywords": "pyrmidportrait Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/pyrmidportrait-c70743.jpg"
+      },
+      {
+       "uri": "346dd1_cab8dd2825364012aef6a4f19de6ea9d~mv2.jpeg",
+       "w": 2818,
+       "h": 3695,
+       "title": "paisly lady",
+       "desc": [],
+       "alt": "paisly lady by Michael Reigle Wagner",
+       "keywords": "paisly lady Michael Reigle Wagner surrealist oil painting psychedelic art",
+       "file": "oils-on-canvas-/paisly-lady-cab8dd.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_b4c50131b9a140e4b1a42e6695e59068~mv2.jpg",
+       "w": 4500,
+       "h": 2211,
+       "title": "neon ram",
+       "desc": [],
+       "alt": "neon ram by Michael Reigle Wagner",
+       "keywords": "neon ram",
+       "file": "oils-on-canvas-/neon-ram-b4c501.jpg"
+      },
+      {
+       "uri": "346dd1_e99698048ec94e349615900c6b1466be~mv2.jpg",
+       "w": 4171,
+       "h": 1521,
+       "title": "neon landscape",
+       "desc": [],
+       "alt": "neon landscape by Michael Reigle Wagner",
+       "keywords": "neon landscape",
+       "file": "oils-on-canvas-/neon-landscape-e99698.jpg"
+      },
+      {
+       "uri": "346dd1_da2baf5ac2154db7860606190bfcf2c7~mv2.jpg",
+       "w": 3376,
+       "h": 2686,
+       "title": "drum solo",
+       "desc": [],
+       "alt": "drum solo by Michael Reigle Wagner",
+       "keywords": "drum solo",
+       "file": "oils-on-canvas-/drum-solo-da2baf.jpg"
+      },
+      {
+       "uri": "346dd1_1c7ba06d8bff41d282bb4dd6c9fbd539~mv2.jpg",
+       "w": 2736,
+       "h": 3422,
+       "title": "guitar solo",
+       "desc": [],
+       "alt": "guitar solo by Michael Reigle Wagner",
+       "keywords": "guitar solo",
+       "file": "oils-on-canvas-/guitar-solo-1c7ba0.jpg"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_0cd9cb27d4d74db7aa823236f5a90cd9~mv2.jpg",
+      "w": 3000,
+      "h": 2498,
+      "title": "3rd eye 1st person",
+      "desc": [],
+      "alt": "3rd eye 1st person by Michael Reigle Wagner",
+      "keywords": "3rd eye 1st person_edited.jpg 3rd eye 1st person_edited.jpg",
+      "file": "oils-on-canvas-/3rd-eye-1st-person-0cd9cb.jpg"
+     }
+    }
+   ]
+  },
+  "drawings-": {
+   "title": "Drawings",
+   "nav": "Sketches",
+   "blocks": [
+    {
+     "type": "heading",
+     "text": "Drawings"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_edeb4bfaabea49738a0b2ffa38a8108b.jpg",
+       "w": 668,
+       "h": 666,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-edeb4b.jpg"
+      },
+      {
+       "uri": "346dd1_d9751f7993b14f228c58490641ebaa51.png",
+       "w": 686,
+       "h": 683,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-d9751f.png"
+      },
+      {
+       "uri": "346dd1_b5f47964fe204084bc34168630dd72e8.jpg",
+       "w": 581,
+       "h": 662,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-b5f479.jpg"
+      },
+      {
+       "uri": "346dd1_463470a1f4ff43aeb4d96a4504404f5d.jpg",
+       "w": 672,
+       "h": 685,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-463470.jpg"
+      },
+      {
+       "uri": "346dd1_3222f77801694e358703ee4fccce76c5.jpg",
+       "w": 582,
+       "h": 686,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-3222f7.jpg"
+      },
+      {
+       "uri": "346dd1_cbc6122d461a46c2bdc4f49ebb249890.jpg",
+       "w": 617,
+       "h": 603,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-cbc612.jpg"
+      },
+      {
+       "uri": "346dd1_72ab104c62514402a02683b241acc1ca.jpg",
+       "w": 695,
+       "h": 588,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-72ab10.jpg"
+      },
+      {
+       "uri": "346dd1_3d390860bf3b48339b9f1d88baac0cd7.jpg",
+       "w": 558,
+       "h": 691,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-3d3908.jpg"
+      },
+      {
+       "uri": "346dd1_06faff5d3e3e492598b1240b0b54825d.jpg",
+       "w": 689,
+       "h": 689,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-06faff.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_d01cc999b2eb4a08a220948f96b76d0f.jpg",
+       "w": 575,
+       "h": 668,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-d01cc9.jpg"
+      },
+      {
+       "uri": "346dd1_9fe0e1d5430946d6a928e29baa9f089c.jpg",
+       "w": 602,
+       "h": 670,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-9fe0e1.jpg"
+      },
+      {
+       "uri": "346dd1_ab755b2e554940079c50700a2f1f9a0a.jpg",
+       "w": 615,
+       "h": 680,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-ab755b.jpg"
+      },
+      {
+       "uri": "346dd1_2c1203d0a26b4c0a867f76d697442708.jpg",
+       "w": 694,
+       "h": 520,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-2c1203.jpg"
+      },
+      {
+       "uri": "346dd1_2f247ca646774499bd210763abdef929.jpg",
+       "w": 673,
+       "h": 678,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-2f247c.jpg"
+      },
+      {
+       "uri": "346dd1_92661d83545143e08f0144251842f36a.jpg",
+       "w": 587,
+       "h": 690,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-92661d.jpg"
+      },
+      {
+       "uri": "346dd1_93260e5f6fcb42a6a861499a88d7e9d5.jpg",
+       "w": 687,
+       "h": 682,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-93260e.jpg"
+      },
+      {
+       "uri": "346dd1_69d766bb4b064e1b8a6d5f45822c0bd9.jpg",
+       "w": 522,
+       "h": 645,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-69d766.jpg"
+      },
+      {
+       "uri": "346dd1_ea9988d94f0d4a86801a3f4953889214.jpg",
+       "w": 687,
+       "h": 687,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-ea9988.jpg"
+      },
+      {
+       "uri": "346dd1_4c17b99a50e24a96bb405c3b78858f18.jpg",
+       "w": 642,
+       "h": 650,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-4c17b9.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_5e93ffaf70ba40de9c7aec01a652adb9.jpg",
+       "w": 687,
+       "h": 687,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-5e93ff.jpg"
+      },
+      {
+       "uri": "346dd1_610b660c94c4485cbae3b8abada699c7.jpg",
+       "w": 693,
+       "h": 699,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-610b66.jpg"
+      },
+      {
+       "uri": "346dd1_f12bfc36267d4a6398bce2ec6d0f466d.jpg",
+       "w": 685,
+       "h": 590,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-f12bfc.jpg"
+      },
+      {
+       "uri": "346dd1_2198b7a882e6411b94c30c6f5b7ad96f.jpg",
+       "w": 659,
+       "h": 680,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-2198b7.jpg"
+      },
+      {
+       "uri": "346dd1_e3881bf47b8d4e6c8b547a611005f629.jpg",
+       "w": 678,
+       "h": 684,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-e3881b.jpg"
+      },
+      {
+       "uri": "346dd1_7805dbaddd1e4070aac651b330b75847.jpg",
+       "w": 687,
+       "h": 675,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-7805db.jpg"
+      },
+      {
+       "uri": "346dd1_2675a2b400354f4787f87ddcc1ac9533.jpg",
+       "w": 687,
+       "h": 531,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-2675a2.jpg"
+      },
+      {
+       "uri": "346dd1_90136c7b298e49b796cd4c6a429a03b2.jpg",
+       "w": 675,
+       "h": 669,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-90136c.jpg"
+      },
+      {
+       "uri": "346dd1_4c17b99a50e24a96bb405c3b78858f18.jpg",
+       "w": 642,
+       "h": 650,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-4c17b9.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_a2c230840bfd438eb21fecf0cc4b4a32.png",
+       "w": 682,
+       "h": 676,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-a2c230.png"
+      },
+      {
+       "uri": "346dd1_2f247ca646774499bd210763abdef929.jpg",
+       "w": 673,
+       "h": 678,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-2f247c.jpg"
+      },
+      {
+       "uri": "346dd1_b48a06bd04944a0eb7d4a29915696b30.jpg",
+       "w": 688,
+       "h": 677,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-b48a06.jpg"
+      },
+      {
+       "uri": "346dd1_0eed3366b10c4fc9aced2bc14fcb5767.png",
+       "w": 667,
+       "h": 675,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-0eed33.png"
+      },
+      {
+       "uri": "346dd1_b7852fad86b446daa4c5350c238cec0e.jpg",
+       "w": 594,
+       "h": 675,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-b7852f.jpg"
+      },
+      {
+       "uri": "346dd1_73d00cc6b80845c0982e12d951269360.jpg",
+       "w": 518,
+       "h": 676,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-73d00c.jpg"
+      },
+      {
+       "uri": "346dd1_1e4349b19dfa45178413d6f29408371d.jpg",
+       "w": 686,
+       "h": 665,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-1e4349.jpg"
+      },
+      {
+       "uri": "346dd1_bb18e680d8e3449a84b6393aa6965769.jpg",
+       "w": 686,
+       "h": 686,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-bb18e6.jpg"
+      },
+      {
+       "uri": "346dd1_59213e2c1c9b4c5abb02009de75d5da6.jpg",
+       "w": 606,
+       "h": 680,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-59213e.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_06a6835ea693416cbbf2dfd5d24c48b1.png",
+       "w": 686,
+       "h": 688,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-06a683.png"
+      },
+      {
+       "uri": "346dd1_95e57228e0914ab29797026d80997d82.jpg",
+       "w": 652,
+       "h": 682,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-95e572.jpg"
+      },
+      {
+       "uri": "346dd1_66788e76f2b142dc9922050da077e22c.jpg",
+       "w": 671,
+       "h": 677,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-66788e.jpg"
+      },
+      {
+       "uri": "346dd1_80b72b2f106549faa99b5c6d5f84ef6f.jpg",
+       "w": 686,
+       "h": 682,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-80b72b.jpg"
+      },
+      {
+       "uri": "346dd1_ea9988d94f0d4a86801a3f4953889214.jpg",
+       "w": 687,
+       "h": 687,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-ea9988.jpg"
+      },
+      {
+       "uri": "346dd1_341cf0c0a63d44adab91fe3ba9bcf5c5.jpg",
+       "w": 676,
+       "h": 667,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-341cf0.jpg"
+      },
+      {
+       "uri": "346dd1_f8509234f1a149278ae2f3ef1355d340.jpg",
+       "w": 693,
+       "h": 502,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-f85092.jpg"
+      },
+      {
+       "uri": "346dd1_adaceae96c5d409c8635b9ac920978b1.jpg",
+       "w": 551,
+       "h": 655,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing Michael Wagner",
+       "file": "drawings-/drawing-adacea.jpg"
+      },
+      {
+       "uri": "346dd1_a2c31afc37114102bcd26d7d91ae8d39.jpg",
+       "w": 540,
+       "h": 658,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-a2c31a.jpg"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_56d43e87f55e44448cc55ae50e7ba6e0~mv2.jpg",
+       "w": 3535,
+       "h": 2798,
+       "title": "octofungi",
+       "desc": [],
+       "alt": "octofungi by Michael Reigle Wagner",
+       "keywords": "octofungi",
+       "file": "oils-on-canvas-/octofungi-56d43e.jpg"
+      },
+      {
+       "uri": "346dd1_222919e259a74a7aabb004b7e6dd1d87~mv2_d_3384_2724_s_4_2.jpg",
+       "w": 3384,
+       "h": 2724,
+       "title": "faces in faces",
+       "desc": [],
+       "alt": "faces in faces by Michael Reigle Wagner",
+       "keywords": "faces in faces",
+       "file": "drawings-/faces-in-faces-222919.jpg"
+      },
+      {
+       "uri": "346dd1_e8ad6e65b7904027be0b4aa105dbace4.jpg",
+       "w": 549,
+       "h": 683,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-e8ad6e.jpg"
+      },
+      {
+       "uri": "346dd1_1f28a29be1954922b18f9309cf8eb694.jpg",
+       "w": 680,
+       "h": 585,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-1f28a2.jpg"
+      },
+      {
+       "uri": "346dd1_ffcdbb238ded41e08d26a01114f31b03.jpg",
+       "w": 629,
+       "h": 678,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-ffcdbb.jpg"
+      },
+      {
+       "uri": "346dd1_b08f2a818a8e4de4b418e6f074c46ed0.jpg",
+       "w": 563,
+       "h": 617,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-b08f2a.jpg"
+      },
+      {
+       "uri": "346dd1_a427f88f267f4370a02233a531379b5e.png",
+       "w": 684,
+       "h": 688,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-a427f8.png"
+      },
+      {
+       "uri": "346dd1_aba0cbea5ec54925bd382c95c32f0dfd.jpg",
+       "w": 488,
+       "h": 643,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-aba0cb.jpg"
+      },
+      {
+       "uri": "346dd1_01d32875136947a7beb6ac8caaebfecf.jpg",
+       "w": 684,
+       "h": 690,
+       "title": "Drawing",
+       "desc": [],
+       "alt": "Drawing by Michael Reigle Wagner",
+       "keywords": "Drawing",
+       "file": "drawings-/drawing-01d328.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "digital": {
+   "title": "Graphic Design",
+   "nav": "Graphic Design",
+   "blocks": [
+    {
+     "type": "heading",
+     "text": "Graphic Design"
+    },
+    {
+     "type": "subheading",
+     "text": "Ads and Logos"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_69609412f4f74c568e242ecdffce5776~mv2.jpg",
+       "w": 3682,
+       "h": 4770,
+       "title": "cleveland zoomini",
+       "desc": [],
+       "alt": "cleveland zoomini by Michael Reigle Wagner",
+       "keywords": "cleveland zoomini",
+       "file": "digital/cleveland-zoomini-696094.jpg"
+      },
+      {
+       "uri": "346dd1_4a49e9b569584d6a9a0b012b42d01088.jpg",
+       "w": 503,
+       "h": 656,
+       "title": "HMJ ad",
+       "desc": [],
+       "alt": "HMJ ad by Michael Reigle Wagner",
+       "keywords": "HMJ ad",
+       "file": "digital/hmj-ad-4a49e9.jpg"
+      },
+      {
+       "uri": "346dd1_8d724482313048cbbb69c9305bd6b050.jpg",
+       "w": 413,
+       "h": 496,
+       "title": "Timeless",
+       "desc": [
+        "11 x 8.5",
+        "Magazine Ad"
+       ],
+       "alt": "Timeless by Michael Reigle Wagner",
+       "keywords": "Timeless 11 x 8.5 Magazine Ad",
+       "file": "digital/timeless-8d7244.jpg"
+      },
+      {
+       "uri": "346dd1_6f6321ab9aaf4f7098b06e1fa94c8bba~mv2.jpg",
+       "w": 11400,
+       "h": 4234,
+       "title": "lord of the rings3",
+       "desc": [],
+       "alt": "lord of the rings3 by Michael Reigle Wagner",
+       "keywords": "lord of the rings3",
+       "file": "digital/lord-of-the-rings3-6f6321.jpg"
+      },
+      {
+       "uri": "346dd1_bb38374b857c4a2783012c74d1e2c25c~mv2.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "pollinator chart",
+       "desc": [],
+       "alt": "pollinator chart by Michael Reigle Wagner",
+       "keywords": "pollinator chart",
+       "file": "digital/pollinator-chart-bb3837.jpg"
+      },
+      {
+       "uri": "346dd1_0ed36fbd64ac401d963eb1069a9bee02~mv2.jpg",
+       "w": 5789,
+       "h": 8079,
+       "title": "pollinater logos",
+       "desc": [],
+       "alt": "pollinater logos by Michael Reigle Wagner",
+       "keywords": "pollinater logos",
+       "file": "digital/pollinater-logos-0ed36f.jpg"
+      },
+      {
+       "uri": "346dd1_753bc062673245b3872cc223f92ddf18~mv2.jpg",
+       "w": 3161,
+       "h": 3179,
+       "title": "fg stickery",
+       "desc": [],
+       "alt": "fg stickery by Michael Reigle Wagner",
+       "keywords": "fg stickery",
+       "file": "digital/fg-stickery-753bc0.jpg"
+      },
+      {
+       "uri": "346dd1_3d21bd316f7e40c9907180d735d6d7e3~mv2.jpg",
+       "w": 905,
+       "h": 600,
+       "title": "sticker 2x3 cup",
+       "desc": [],
+       "alt": "sticker 2x3 cup by Michael Reigle Wagner",
+       "keywords": "sticker 2x3 cup",
+       "file": "digital/sticker-2x3-cup-3d21bd.jpg"
+      },
+      {
+       "uri": "346dd1_52408d98c00a4e05b9354f66345057e0~mv2.jpg",
+       "w": 1500,
+       "h": 2398,
+       "title": "steap bag front",
+       "desc": [],
+       "alt": "steap bag front by Michael Reigle Wagner",
+       "keywords": "steap bag front",
+       "file": "digital/steap-bag-front-52408d.jpg"
+      },
+      {
+       "uri": "346dd1_85b1f055e80644b3a9d160df7edb81e2~mv2.jpg",
+       "w": 1500,
+       "h": 2398,
+       "title": "steap bag back",
+       "desc": [],
+       "alt": "steap bag back by Michael Reigle Wagner",
+       "keywords": "steap bag back",
+       "file": "digital/steap-bag-back-85b1f0.jpg"
+      },
+      {
+       "uri": "346dd1_4c6b63f4cf554407b349fdc95e69245a~mv2.jpg",
+       "w": 3600,
+       "h": 3600,
+       "title": "posterwavessteap",
+       "desc": [],
+       "alt": "posterwavessteap by Michael Reigle Wagner",
+       "keywords": "posterwavessteap",
+       "file": "digital/posterwavessteap-4c6b63.jpg"
+      },
+      {
+       "uri": "346dd1_061187c7bca54bd3b5ac3c12f2ab66c9~mv2.jpg",
+       "w": 571,
+       "h": 857,
+       "title": "wavesurfbluesteap",
+       "desc": [],
+       "alt": "wavesurfbluesteap by Michael Reigle Wagner",
+       "keywords": "wavesurfbluesteap",
+       "file": "digital/wavesurfbluesteap-061187.jpg"
+      },
+      {
+       "uri": "346dd1_e5b95ca411064b7a9dd15c6c9ca05911~mv2.png",
+       "w": 528,
+       "h": 553,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2022-05-16 at 4.23.57 PM",
+       "file": "digital/digital-e5b95c.png"
+      },
+      {
+       "uri": "346dd1_8aa4530654244ead85288b4608920d22~mv2.png",
+       "w": 407,
+       "h": 552,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2022-05-16 at 4.26.29 PM",
+       "file": "digital/digital-8aa453.png"
+      },
+      {
+       "uri": "346dd1_d10adc889182497eb99cdbe9a111e61c~mv2.jpg",
+       "w": 582,
+       "h": 1001,
+       "title": "postermtn",
+       "desc": [],
+       "alt": "postermtn by Michael Reigle Wagner",
+       "keywords": "postermtn",
+       "file": "digital/postermtn-d10adc.jpg"
+      },
+      {
+       "uri": "346dd1_539a8896052b47589315b9f4c233936d~mv2.png",
+       "w": 1680,
+       "h": 1788,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2025-01-09 at 3.33.59 PM",
+       "file": "digital/digital-539a88.png"
+      },
+      {
+       "uri": "346dd1_d50545ba762247958a95b248fab4c813~mv2.jpg",
+       "w": 834,
+       "h": 1104,
+       "title": "boss",
+       "desc": [],
+       "alt": "boss by Michael Reigle Wagner",
+       "keywords": "boss",
+       "file": "digital/boss-d50545.jpg"
+      },
+      {
+       "uri": "346dd1_37f2444de478420e98c8a57c3908071d~mv2.jpg",
+       "w": 900,
+       "h": 1074,
+       "title": "paecgat1",
+       "desc": [],
+       "alt": "paecgat1 by Michael Reigle Wagner",
+       "keywords": "paecgat1",
+       "file": "digital/paecgat1-37f244.jpg"
+      },
+      {
+       "uri": "346dd1_c1adcd30dfd2426e9e12634bbefb24cc~mv2.jpg",
+       "w": 736,
+       "h": 1147,
+       "title": "paecgirl2.2",
+       "desc": [],
+       "alt": "paecgirl2.2 by Michael Reigle Wagner",
+       "keywords": "paecgirl2.2",
+       "file": "digital/paecgirl2-2-c1adcd.jpg"
+      },
+      {
+       "uri": "346dd1_b5f471635750434386fabe9922e26aa4~mv2.jpg",
+       "w": 5100,
+       "h": 8275,
+       "title": "TonyS",
+       "desc": [],
+       "alt": "TonyS by Michael Reigle Wagner",
+       "keywords": "TonyS",
+       "file": "digital/tonys-b5f471.jpg"
+      },
+      {
+       "uri": "346dd1_ba6d9ccaf4854eb38a1d8b54d03e54d8~mv2.png",
+       "w": 716,
+       "h": 460,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2024-05-15 at 9.45.44 AM",
+       "file": "digital/digital-ba6d9c.png"
+      },
+      {
+       "uri": "346dd1_41cfcaf3bac4485193e7d75b66667a99~mv2.jpg",
+       "w": 6837,
+       "h": 7482,
+       "title": "wapak",
+       "desc": [],
+       "alt": "wapak by Michael Reigle Wagner",
+       "keywords": "wapak",
+       "file": "digital/wapak-41cfca.jpg"
+      },
+      {
+       "uri": "346dd1_575ca67c995e4df0ac975272c9a5431f~mv2.jpg",
+       "w": 6000,
+       "h": 6496,
+       "title": "THE UNION KITCHEN-logo",
+       "desc": [],
+       "alt": "THE UNION KITCHEN-logo by Michael Reigle Wagner",
+       "keywords": "THE UNION KITCHEN-logo",
+       "file": "digital/the-union-kitchen-logo-575ca6.jpg"
+      },
+      {
+       "uri": "346dd1_14112f487504418893ffd9ac13b93aba~mv2.jpg",
+       "w": 599,
+       "h": 719,
+       "title": "the traveling trainer1third",
+       "desc": [],
+       "alt": "the traveling trainer1third by Michael Reigle Wagner",
+       "keywords": "the traveling trainer1third",
+       "file": "digital/the-traveling-trainer1third-14112f.jpg"
+      },
+      {
+       "uri": "346dd1_08ccf58ae0764577a5de177bc3020196~mv2.jpg",
+       "w": 4200,
+       "h": 4200,
+       "title": "matt logo only",
+       "desc": [],
+       "alt": "matt logo only by Michael Reigle Wagner",
+       "keywords": "matt logo only",
+       "file": "digital/matt-logo-only-08ccf5.jpg"
+      },
+      {
+       "uri": "346dd1_f8e25f836e4f4a77b779589b66717761~mv2.jpg",
+       "w": 3600,
+       "h": 3772,
+       "title": "Midnight Jaguar 1",
+       "desc": [],
+       "alt": "Midnight Jaguar 1 by Michael Reigle Wagner",
+       "keywords": "Midnight Jaguar 1",
+       "file": "digital/midnight-jaguar-1-f8e25f.jpg"
+      },
+      {
+       "uri": "346dd1_1b0511de74324e0f9bae5500d76958be~mv2.jpg",
+       "w": 1707,
+       "h": 1936,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "IMG_084123",
+       "file": "digital/digital-1b0511.jpg"
+      },
+      {
+       "uri": "346dd1_89bc61a27f6c4fe283d12479329451db~mv2.jpg",
+       "w": 494,
+       "h": 639,
+       "title": "lil leaf big 5.7",
+       "desc": [],
+       "alt": "lil leaf big 5.7 by Michael Reigle Wagner",
+       "keywords": "lil leaf big 5.7",
+       "file": "digital/lil-leaf-big-5-7-89bc61.jpg"
+      },
+      {
+       "uri": "346dd1_eca3b623016941dd8d7481ebe886b4a9~mv2.jpg",
+       "w": 494,
+       "h": 639,
+       "title": "lil leaf extras",
+       "desc": [],
+       "alt": "lil leaf extras by Michael Reigle Wagner",
+       "keywords": "lil leaf extras",
+       "file": "digital/lil-leaf-extras-eca3b6.jpg"
+      },
+      {
+       "uri": "346dd1_af9f1db7541f45d9b7836944bbd539bd~mv2.jpg",
+       "w": 494,
+       "h": 639,
+       "title": "lil leaf .1",
+       "desc": [],
+       "alt": "lil leaf .1 by Michael Reigle Wagner",
+       "keywords": "lil leaf .1",
+       "file": "digital/lil-leaf-1-af9f1d.jpg"
+      },
+      {
+       "uri": "346dd1_497de87865bf4361b7ee26ec615d6227~mv2.jpg",
+       "w": 2785,
+       "h": 4178,
+       "title": "fake wine label",
+       "desc": [],
+       "alt": "fake wine label by Michael Reigle Wagner",
+       "keywords": "fake wine label",
+       "file": "digital/fake-wine-label-497de8.jpg"
+      },
+      {
+       "uri": "346dd1_54481b00d45a48e8a8c66ae596ca0346.jpg",
+       "w": 3300,
+       "h": 5100,
+       "title": "For Love or Murder #1",
+       "desc": [
+        "24 x 12",
+        "Movie Poster I"
+       ],
+       "alt": "For Love or Murder #1 by Michael Reigle Wagner",
+       "keywords": "For Love or Murder #1 24 x 12 Movie Poster I",
+       "file": "digital/for-love-or-murder-1-54481b.jpg"
+      },
+      {
+       "uri": "346dd1_1cdeee7027194130896d0a01e270a4cf.jpg",
+       "w": 3527,
+       "h": 5100,
+       "title": "For Love or Murder #2",
+       "desc": [
+        "24 x 10",
+        "Movie Poster II"
+       ],
+       "alt": "For Love or Murder #2 by Michael Reigle Wagner",
+       "keywords": "For Love or Murder #2 24 x 10 Movie Poster II",
+       "file": "digital/for-love-or-murder-2-1cdeee.jpg"
+      },
+      {
+       "uri": "346dd1_669e67922e5047ceaf1e61cd202cb873.jpg",
+       "w": 600,
+       "h": 800,
+       "title": "IV Magazine",
+       "desc": [
+        "12 x 10",
+        "Cover"
+       ],
+       "alt": "IV Magazine by Michael Reigle Wagner",
+       "keywords": "IV Magazine 12 x 10 Cover",
+       "file": "digital/iv-magazine-669e67.jpg"
+      },
+      {
+       "uri": "346dd1_49f6c917a7d844d580ef539869f02a92.jpg",
+       "w": 560,
+       "h": 798,
+       "title": "& Vodka",
+       "desc": [],
+       "alt": "& Vodka by Michael Reigle Wagner",
+       "keywords": "& Vodka",
+       "file": "digital/and-vodka-49f6c9.jpg"
+      },
+      {
+       "uri": "346dd1_7d681d282f454f86b4ad8648c433c708.jpg",
+       "w": 794,
+       "h": 528,
+       "title": "James'",
+       "desc": [
+        "6 x 8.5",
+        "Post Card"
+       ],
+       "alt": "James' by Michael Reigle Wagner",
+       "keywords": "James' 6 x 8.5 Post Card",
+       "file": "digital/james-7d681d.jpg"
+      },
+      {
+       "uri": "346dd1_d9190dff8c714a2e91bed84a0f6a0691.jpg",
+       "w": 829,
+       "h": 552,
+       "title": "lipstick",
+       "desc": [
+        "5.5 x 8",
+        "Post Card"
+       ],
+       "alt": "lipstick by Michael Reigle Wagner",
+       "keywords": "lipstick.jpg 5.5 x 8 Post Card",
+       "file": "digital/lipstick-d9190d.jpg"
+      },
+      {
+       "uri": "346dd1_20976e3ba93d46ab8bbe6ca21ffcbf84.png",
+       "w": 2687,
+       "h": 3322,
+       "title": "Moc Archer Add",
+       "desc": [
+        "14 x 11",
+        "Wall/Bus Poster"
+       ],
+       "alt": "Moc Archer Add by Michael Reigle Wagner",
+       "keywords": "Moc Archer Add 14 x 11 Wall/Bus Poster",
+       "file": "digital/moc-archer-add-20976e.png"
+      },
+      {
+       "uri": "346dd1_6462c46648864979aec97df5595a6af1.jpg",
+       "w": 2528,
+       "h": 3270,
+       "title": "ZYGO 2 JPEG",
+       "desc": [],
+       "alt": "ZYGO 2 JPEG by Michael Reigle Wagner",
+       "keywords": "ZYGO 2 JPEG",
+       "file": "digital/zygo-2-jpeg-6462c4.jpg"
+      },
+      {
+       "uri": "346dd1_b58618471fd04655910b6d4b8f6ce04d.jpg",
+       "w": 4384,
+       "h": 2877,
+       "title": "mag upload_Page_3",
+       "desc": [
+        "12 x 18",
+        "Page 3,4"
+       ],
+       "alt": "mag upload_Page_3 by Michael Reigle Wagner",
+       "keywords": "mag upload_Page_3.jpg 12 x 18 Page 3,4",
+       "file": "digital/mag-upload-page-3-b58618.jpg"
+      }
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Style Guides"
+    },
+    {
+     "type": "image",
+     "item": {
+      "uri": "346dd1_21cc32df1b1d41d4b7af61cf3cb77d56~mv2.png",
+      "w": 554,
+      "h": 707,
+      "title": "",
+      "desc": [],
+      "alt": "Artwork by Michael Reigle Wagner",
+      "keywords": "Screen Shot 2020-12-18 at 7.01.40 PM.png Screen Shot 2020-12-18 at 7.01.40 PM.png",
+      "file": "digital/digital-21cc32.png"
+     }
+    },
+    {
+     "type": "subheading",
+     "text": "Schleem Skateboards"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_d13b8b0b7f2f4e1d90e71bd8ecec6d67.jpg",
+       "w": 4619,
+       "h": 6427,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/digital-d13b8b.jpg"
+      },
+      {
+       "uri": "346dd1_ad61859969674eaca8bf4a3f037f9e30.jpg",
+       "w": 7174,
+       "h": 9295,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/digital-ad6185.jpg"
+      },
+      {
+       "uri": "346dd1_87daca89826044028ccdf82b4a4f25ec.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/digital-87daca.jpg"
+      },
+      {
+       "uri": "346dd1_025e19778708414ebfeb71189334d4fa.jpg",
+       "w": 1536,
+       "h": 2308,
+       "title": "Craig Poster",
+       "desc": [],
+       "alt": "Craig Poster by Michael Reigle Wagner",
+       "keywords": "Craig Poster",
+       "file": "digital/craig-poster-025e19.jpg"
+      },
+      {
+       "uri": "346dd1_da0c77479ced4f7780fe0d616c94bc25.jpg",
+       "w": 792,
+       "h": 1224,
+       "title": "Kodi deck",
+       "desc": [],
+       "alt": "Kodi deck by Michael Reigle Wagner",
+       "keywords": "Kodi deck",
+       "file": "digital/kodi-deck-da0c77.jpg"
+      },
+      {
+       "uri": "346dd1_008151213bb94179b027ba9f7d9eb99e.jpg",
+       "w": 792,
+       "h": 1224,
+       "title": "michael deck",
+       "desc": [],
+       "alt": "michael deck by Michael Reigle Wagner",
+       "keywords": "michael deck",
+       "file": "digital/michael-deck-008151.jpg"
+      },
+      {
+       "uri": "346dd1_cde1dff71b3d447890bba6bc9a42e067.jpg",
+       "w": 2304,
+       "h": 1536,
+       "title": "Barca Poster",
+       "desc": [],
+       "alt": "Barca Poster by Michael Reigle Wagner",
+       "keywords": "Barca Poster",
+       "file": "digital/barca-poster-cde1df.jpg"
+      },
+      {
+       "uri": "346dd1_8ee7f92922564aee8e971633fe6d409f.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "Dean Deck2",
+       "desc": [],
+       "alt": "Dean Deck2 by Michael Reigle Wagner",
+       "keywords": "Dean Deck2",
+       "file": "digital/dean-deck2-8ee7f9.jpg"
+      },
+      {
+       "uri": "346dd1_99c65e45f951471f9c0304dd1e6587b2.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "Deck Schleem 2",
+       "desc": [],
+       "alt": "Deck Schleem 2 by Michael Reigle Wagner",
+       "keywords": "Deck Schleem 2",
+       "file": "digital/deck-schleem-2-99c65e.jpg"
+      },
+      {
+       "uri": "346dd1_699d507d8734427ea57637f033928ae6.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "Schleem Poster 1",
+       "desc": [],
+       "alt": "Schleem Poster 1 by Michael Reigle Wagner",
+       "keywords": "Schleem Poster 1",
+       "file": "digital/schleem-poster-1-699d50.jpg"
+      },
+      {
+       "uri": "346dd1_292d415b91eb4d2780f906d3a8ba415d.jpg",
+       "w": 1536,
+       "h": 2304,
+       "title": "Schleem Psoter 2",
+       "desc": [],
+       "alt": "Schleem Psoter 2 by Michael Reigle Wagner",
+       "keywords": "Schleem Psoter 2",
+       "file": "digital/schleem-psoter-2-292d41.jpg"
+      },
+      {
+       "uri": "346dd1_2c7d94685a1442e5a22b95a824215e92.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "Deck Schleem On",
+       "desc": [],
+       "alt": "Deck Schleem On by Michael Reigle Wagner",
+       "keywords": "Deck Schleem On",
+       "file": "digital/deck-schleem-on-2c7d94.jpg"
+      },
+      {
+       "uri": "346dd1_c6eb11f381a4444abb08028a99fad6eb.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "Dean Deck",
+       "desc": [],
+       "alt": "Dean Deck by Michael Reigle Wagner",
+       "keywords": "Dean Deck",
+       "file": "digital/dean-deck-c6eb11.jpg"
+      },
+      {
+       "uri": "346dd1_a698089ad9c749668de4e5483674165f.jpg",
+       "w": 1883,
+       "h": 1750,
+       "title": "schleem logo",
+       "desc": [],
+       "alt": "schleem logo by Michael Reigle Wagner",
+       "keywords": "schleem logo",
+       "file": "digital/schleem-logo-a69808.jpg"
+      },
+      {
+       "uri": "346dd1_4ec440ad67374b5d942a954989737dce.jpg",
+       "w": 10081,
+       "h": 8861,
+       "title": "Michaelsitting",
+       "desc": [],
+       "alt": "Michaelsitting by Michael Reigle Wagner",
+       "keywords": "Michaelsitting",
+       "file": "digital/michaelsitting-4ec440.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "style-guide-c12ou": {
+   "title": "Style Guides",
+   "blocks": [
+    {
+     "type": "heading",
+     "text": "Style Guides"
+    },
+    {
+     "type": "subheading",
+     "text": "Alliance LLC"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_fcb248a583c145139b89446b4328bc28~mv2.png",
+       "w": 667,
+       "h": 692,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2021-04-28 at 11.32.00 PM",
+       "file": "style-guide-c12ou/style-guide-c12ou-fcb248.png"
+      },
+      {
+       "uri": "346dd1_21cc32df1b1d41d4b7af61cf3cb77d56~mv2.png",
+       "w": 554,
+       "h": 707,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2020-12-18 at 7.01.40 PM",
+       "file": "digital/digital-21cc32.png"
+      },
+      {
+       "uri": "346dd1_ea07e69a9a0e49118d9db5ca540d06a6~mv2.jpg",
+       "w": 3421,
+       "h": 3300,
+       "title": "alliance pantones",
+       "desc": [],
+       "alt": "alliance pantones by Michael Reigle Wagner",
+       "keywords": "alliance pantones",
+       "file": "style-guide-c12ou/alliance-pantones-ea07e6.jpg"
+      },
+      {
+       "uri": "346dd1_280e37ab29f5449fb6e8700ec447750d~mv2.jpg",
+       "w": 2326,
+       "h": 653,
+       "title": "alliance large logo7.5_",
+       "desc": [],
+       "alt": "alliance large logo7.5_ by Michael Reigle Wagner",
+       "keywords": "alliance large logo7.5_ copy",
+       "file": "style-guide-c12ou/alliance-large-logo7-5-280e37.jpg"
+      },
+      {
+       "uri": "346dd1_a3dfda6ea0b742d39ec208aaa40f5c23~mv2.jpg",
+       "w": 2550,
+       "h": 820,
+       "title": "alliance vector logo Gold",
+       "desc": [],
+       "alt": "alliance vector logo Gold by Michael Reigle Wagner",
+       "keywords": "alliance vector logo Gold copy",
+       "file": "style-guide-c12ou/alliance-vector-logo-gold-a3dfda.jpg"
+      }
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Lagos Bloomingdale's"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_22fa18eeb8274079a023e862d062b8d8~mv2.png",
+       "w": 2644,
+       "h": 1486,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-22fa18.png"
+      },
+      {
+       "uri": "346dd1_fa660efb69ba4aa7a2a6dec0fd2e451f~mv2.png",
+       "w": 2638,
+       "h": 1476,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-fa660e.png"
+      },
+      {
+       "uri": "346dd1_f0be9dbb20774446886b041f23d3fbcb~mv2.png",
+       "w": 2650,
+       "h": 1490,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-f0be9d.png"
+      },
+      {
+       "uri": "346dd1_b539354f93ec4952872d5d911e391834~mv2.png",
+       "w": 2634,
+       "h": 1488,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-b53935.png"
+      },
+      {
+       "uri": "346dd1_5e27cc2c039f47cbbadd1669fd772ff1~mv2.png",
+       "w": 2644,
+       "h": 1482,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-5e27cc.png"
+      },
+      {
+       "uri": "346dd1_db03fd47918b46c9a5bf67269f23a2da~mv2.png",
+       "w": 2640,
+       "h": 1492,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-db03fd.png"
+      },
+      {
+       "uri": "346dd1_c06e5dd1b87946cdb96b6ec2c598baa6~mv2.png",
+       "w": 2644,
+       "h": 1486,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-c06e5d.png"
+      },
+      {
+       "uri": "346dd1_6bd162619a684929a03c853e2e395714~mv2.png",
+       "w": 2646,
+       "h": 1488,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-6bd162.png"
+      },
+      {
+       "uri": "346dd1_22d94b0155e649b99f0d952bdff3c44a~mv2.png",
+       "w": 2640,
+       "h": 1486,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-22d94b.png"
+      },
+      {
+       "uri": "346dd1_54468313109e4296b1cf18fde758a04c~mv2.png",
+       "w": 2638,
+       "h": 1470,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-544683.png"
+      },
+      {
+       "uri": "346dd1_f4850d7c6ee641d5a01d989bcedaa1d2~mv2.png",
+       "w": 2638,
+       "h": 1474,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-f4850d.png"
+      },
+      {
+       "uri": "346dd1_170ca2167f6c400cb9645bdf2737f0c3~mv2.png",
+       "w": 2636,
+       "h": 1482,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-170ca2.png"
+      },
+      {
+       "uri": "346dd1_99304b0babf24d8f94b0a9ad300cb944~mv2.png",
+       "w": 2644,
+       "h": 1494,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-99304b.png"
+      }
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Display Case Design"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_b527ec40c06e45d89139778693d13e40~mv2.png",
+       "w": 2644,
+       "h": 1480,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-b527ec.png"
+      },
+      {
+       "uri": "346dd1_e461423b33c84256aa8f0dd27200c9f8~mv2.png",
+       "w": 2572,
+       "h": 1436,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-e46142.png"
+      },
+      {
+       "uri": "346dd1_b17ca7661472467c8c15bfeb83e16a08~mv2.png",
+       "w": 2562,
+       "h": 1420,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-b17ca7.png"
+      },
+      {
+       "uri": "346dd1_e7ab698b239341ab8a7940cf61233aab~mv2.png",
+       "w": 2566,
+       "h": 1408,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-e7ab69.png"
+      },
+      {
+       "uri": "346dd1_98a7d93d50944c2c9dc9a7c0a7b6d2db~mv2.png",
+       "w": 2568,
+       "h": 1434,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-98a7d9.png"
+      },
+      {
+       "uri": "346dd1_6dc57be60daf4e45b522db3b23814949~mv2.png",
+       "w": 2562,
+       "h": 1428,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "style-guide-c12ou/style-guide-c12ou-6dc57b.png"
+      }
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Flip Skateboards"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_aa9b9ee1f3084d56be12b3d91c3361e9.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "FlipVI",
+       "desc": [],
+       "alt": "FlipVI by Michael Reigle Wagner",
+       "keywords": "FlipVI",
+       "file": "style-guide-c12ou/flipvi-aa9b9e.jpg"
+      },
+      {
+       "uri": "346dd1_5272f2d52ff04c1aad79dbb566557721.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "FlipvIII",
+       "desc": [],
+       "alt": "FlipvIII by Michael Reigle Wagner",
+       "keywords": "FlipvIII",
+       "file": "style-guide-c12ou/flipviii-5272f2.jpg"
+      },
+      {
+       "uri": "346dd1_74f01fd98dc04cb9b320d164be168b41.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "flipII",
+       "desc": [],
+       "alt": "flipII by Michael Reigle Wagner",
+       "keywords": "flipII",
+       "file": "style-guide-c12ou/flipii-74f01f.jpg"
+      },
+      {
+       "uri": "346dd1_7ba3ab7fe4aa42ebb8ae64c67385ef50.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "flipIX",
+       "desc": [],
+       "alt": "flipIX by Michael Reigle Wagner",
+       "keywords": "flipIX",
+       "file": "style-guide-c12ou/flipix-7ba3ab.jpg"
+      },
+      {
+       "uri": "346dd1_1ac56f187bde4c7b942abfe8418a81bb.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "FlipIIX",
+       "desc": [],
+       "alt": "FlipIIX by Michael Reigle Wagner",
+       "keywords": "FlipIIX",
+       "file": "style-guide-c12ou/flipiix-1ac56f.jpg"
+      },
+      {
+       "uri": "346dd1_1294d4c3500f46b4a2a2629c2b187f42.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "FlipIV",
+       "desc": [],
+       "alt": "FlipIV by Michael Reigle Wagner",
+       "keywords": "FlipIV",
+       "file": "style-guide-c12ou/flipiv-1294d4.jpg"
+      },
+      {
+       "uri": "346dd1_0a62927c9ef9442c9283fe6d2836317c.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "flipIII",
+       "desc": [],
+       "alt": "flipIII by Michael Reigle Wagner",
+       "keywords": "flipIII",
+       "file": "style-guide-c12ou/flipiii-0a6292.jpg"
+      },
+      {
+       "uri": "346dd1_7bdbee46d7bd412585f2985ee394ae42.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "flipv",
+       "desc": [],
+       "alt": "flipv by Michael Reigle Wagner",
+       "keywords": "flipv",
+       "file": "style-guide-c12ou/flipv-7bdbee.jpg"
+      },
+      {
+       "uri": "346dd1_2a86f9f3ca9746fd90ad95cce9fe9a72.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "Flip X",
+       "desc": [],
+       "alt": "Flip X by Michael Reigle Wagner",
+       "keywords": "Flip X",
+       "file": "style-guide-c12ou/flip-x-2a86f9.jpg"
+      }
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Chopard Party Wrist Band"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_333ab558b5774d749654518df1835304~mv2.png",
+       "w": 2352,
+       "h": 1764,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "Screen Shot 2025-01-09 at 1.50.36 PM",
+       "file": "style-guide-c12ou/style-guide-c12ou-333ab5.png"
+      },
+      {
+       "uri": "346dd1_a059c331017a4318b8e58af87c5c85f7~mv2.jpg",
+       "w": 3024,
+       "h": 4032,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "IMG_0429",
+       "file": "style-guide-c12ou/style-guide-c12ou-a059c3.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  "schleem": {
+   "title": "Schleem Skateboards",
+   "blocks": [
+    {
+     "type": "heading",
+     "text": "Schleem Skateboards"
+    },
+    {
+     "type": "gallery",
+     "items": [
+      {
+       "uri": "346dd1_ad61859969674eaca8bf4a3f037f9e30.jpg",
+       "w": 7174,
+       "h": 9295,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/digital-ad6185.jpg"
+      },
+      {
+       "uri": "346dd1_a698089ad9c749668de4e5483674165f.jpg",
+       "w": 1883,
+       "h": 1750,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/schleem-logo-a69808.jpg"
+      },
+      {
+       "uri": "346dd1_4ec440ad67374b5d942a954989737dce.jpg",
+       "w": 10081,
+       "h": 8861,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/michaelsitting-4ec440.jpg"
+      },
+      {
+       "uri": "346dd1_87daca89826044028ccdf82b4a4f25ec.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/digital-87daca.jpg"
+      },
+      {
+       "uri": "346dd1_8ee7f92922564aee8e971633fe6d409f.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/dean-deck2-8ee7f9.jpg"
+      },
+      {
+       "uri": "346dd1_008151213bb94179b027ba9f7d9eb99e.jpg",
+       "w": 792,
+       "h": 1224,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/michael-deck-008151.jpg"
+      },
+      {
+       "uri": "346dd1_da0c77479ced4f7780fe0d616c94bc25.jpg",
+       "w": 792,
+       "h": 1224,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/kodi-deck-da0c77.jpg"
+      },
+      {
+       "uri": "346dd1_c6eb11f381a4444abb08028a99fad6eb.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/dean-deck-c6eb11.jpg"
+      },
+      {
+       "uri": "346dd1_2c7d94685a1442e5a22b95a824215e92.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/deck-schleem-on-2c7d94.jpg"
+      },
+      {
+       "uri": "346dd1_467ba4203eb04f38b7ab85adc15d1dae.jpg",
+       "w": 5427,
+       "h": 8133,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "schleem/schleem-467ba4.jpg"
+      },
+      {
+       "uri": "346dd1_025e19778708414ebfeb71189334d4fa.jpg",
+       "w": 1536,
+       "h": 2308,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/craig-poster-025e19.jpg"
+      },
+      {
+       "uri": "346dd1_d13b8b0b7f2f4e1d90e71bd8ecec6d67.jpg",
+       "w": 4619,
+       "h": 6427,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/digital-d13b8b.jpg"
+      },
+      {
+       "uri": "346dd1_cde1dff71b3d447890bba6bc9a42e067.jpg",
+       "w": 2304,
+       "h": 1536,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/barca-poster-cde1df.jpg"
+      },
+      {
+       "uri": "346dd1_292d415b91eb4d2780f906d3a8ba415d.jpg",
+       "w": 1536,
+       "h": 2304,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/schleem-psoter-2-292d41.jpg"
+      },
+      {
+       "uri": "346dd1_699d507d8734427ea57637f033928ae6.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/schleem-poster-1-699d50.jpg"
+      },
+      {
+       "uri": "346dd1_99c65e45f951471f9c0304dd1e6587b2.jpg",
+       "w": 2550,
+       "h": 3300,
+       "title": "",
+       "desc": [],
+       "alt": "Artwork by Michael Reigle Wagner",
+       "keywords": "",
+       "file": "digital/deck-schleem-2-99c65e.jpg"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "home": {
+  "tiles": [
+   {
+    "uri": "346dd1_fcfd4c15de5942f78f0b86fdbd78abc3.jpg",
+    "w": 400,
+    "h": 720,
+    "title": "Charcoal",
+    "desc": [],
+    "alt": "Charcoal by Michael Reigle Wagner",
+    "keywords": "Charcoal",
+    "file": "charcoals-and--pastel/travis-fcfd4c.jpg"
+   },
+   {
+    "uri": "346dd1_e9781c95a919417bad8dd71b58d7853f.jpg",
+    "w": 720,
+    "h": 720,
+    "title": "Oil on Canvas",
+    "desc": [],
+    "alt": "Oil on Canvas by Michael Reigle Wagner",
+    "keywords": "Oil on Canvas",
+    "file": "oils-on-canvas-/cigar-rose-e9781c.jpg"
+   },
+   {
+    "uri": "346dd1_b48a06bd04944a0eb7d4a29915696b30.jpg",
+    "w": 688,
+    "h": 677,
+    "title": "Sketches",
+    "desc": [],
+    "alt": "Sketches by Michael Reigle Wagner",
+    "keywords": "Sketches",
+    "file": "drawings-/drawing-b48a06.jpg"
+   },
+   {
+    "uri": "346dd1_a559346c756d40d6af5cb2e01b8aada7.jpg",
+    "w": 413,
+    "h": 496,
+    "title": "Graphic Design",
+    "desc": [],
+    "alt": "Graphic Design by Michael Reigle Wagner",
+    "keywords": "Graphic Design",
+    "file": "home/graphic-design-a55934.jpg"
+   },
+   {
+    "uri": "346dd1_5b3ff5f6015748f18875ac6a9814af3a.jpg",
+    "w": 3498,
+    "h": 2643,
+    "title": "Resume",
+    "desc": [],
+    "alt": "Resume by Michael Reigle Wagner",
+    "keywords": "Resume",
+    "file": "charcoals-and--pastel/flora-5b3ff5.jpg"
+   },
+   {
+    "uri": "346dd1_69f36a1c80da48ff9037e194b0972283.jpg",
+    "w": 2216,
+    "h": 2992,
+    "title": "Contact",
+    "desc": [],
+    "alt": "Contact by Michael Reigle Wagner",
+    "keywords": "Contact",
+    "file": "oils-on-canvas-/propaganda-portrait-69f36a.jpg"
+   }
+  ],
+  "headshot": {
+   "uri": "346dd1_662828b2050e40af87dc63377dc43c77~mv2.jpg",
+   "w": 1179,
+   "h": 957,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "Michael Reigle Wagner Head Shot.jpg",
+   "file": "home/home-662828.jpg"
+  },
+  "texts": {
+   "i4yttkon": "Choose a Medium Above or Below",
+   "i4yugsrb": "RESUME",
+   "i4yuir07": "GRAPHIC\n\nDESIGN",
+   "i4yuknow": "CHARCOAL\n\n&\n\nPASTEL",
+   "i4yumssd": "ACRYLIC\n\n&\n\nOIL",
+   "i4yuom90": "DRAWINGS",
+   "i505t61b": "CONTACT",
+   "i50gwjn1": "CONTACT",
+   "i4yw5s6s": "The work on this site is uploaded for the sole purpose of:  pleasure and professional critique. Use of any image without the consent of Michael Wagner is strictly prohibited. For any inquiry please contact Michael Wagner directly.",
+   "comp-m740huai1": "Michael Reigle Wagner",
+   "comp-m740huak1": "32-year-old Cleveland native, holds a BFA from the USC Roski School of Art and Design. A surrealist oil painter, he uses vivid color palettes and dreamlike compositions to reinterpret classical subjects, creating captivating and innovative contemporary art",
+   "comp-m740t3bv1": "Story of my art",
+   "comp-m740t3bw3": "Michael Wagner is a true surrealist for the modern age. By intertwining the timeless depth of classical compositions with vibrant psychedelic elements, he reimagines themes of religion and enlightenment with striking originality. His works bring a refreshing vitality to the often conventional landscape of contemporary art.\n\nAfter years of exploring religion and philosophy, Wagner masterfully translates the profound questions of life and spirituality into visual form. Rejecting traditional boundaries, he demonstrates that the \"box\" we imagine confining us was actually never there. By seamlessly merging the conscious and subconscious, his art offers a divine glimpse into the dream state and the mysteries of the afterlife. These colorful, thought-provoking pieces ignite the viewer's inner creativity, evoking a sense of lucid dreaming for all who lay eyes on them.",
+   "comp-m740w7np1": "Contact",
+   "comp-m740w7nr3": "For all of your artistic inquiries contact me directly at:",
+   "comp-m740w7nt1": "MWagnerDesigns@Gmail",
+   "comp-m740w7nv1": "(216) 407-6098"
+  }
+ },
+ "resumeLogos": {
+  "i4yv0p25": {
+   "uri": "346dd1_f7249bee1a33426bb8bc1b094fd9b544.jpg",
+   "w": 2915,
+   "h": 2999,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-f7249b.jpg"
+  },
+  "comp-m70v4g4g": {
+   "uri": "346dd1_f4f94974f1cd4ae0a68f96e99e7f5f47~mv2.png",
+   "w": 796,
+   "h": 234,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "Screen Shot 2025-02-11 at 11.14.17 AM.png",
+   "file": "resume/resume-f4f949.png"
+  },
+  "comp-m70uxxhe": {
+   "uri": "346dd1_08ce8c042cab440889bb4c90d0af4134~mv2.png",
+   "w": 2094,
+   "h": 1052,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "Screen Shot 2025-02-11 at 10.52.56 AM.png",
+   "file": "resume/resume-08ce8c.png"
+  },
+  "comp-m70v0rhi": {
+   "uri": "346dd1_173fb55b80764bab91e3ef3ef988ec26~mv2.png",
+   "w": 404,
+   "h": 332,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "Screen Shot 2025-02-11 at 11.12.44 AM.png",
+   "file": "resume/resume-173fb5.png"
+  },
+  "i4yv0p27_1": {
+   "uri": "346dd1_79a0bd5f552047f7aa11b55ae0d37846.jpg",
+   "w": 2915,
+   "h": 2999,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-79a0bd.jpg"
+  },
+  "idajc375": {
+   "uri": "346dd1_d4d95acf80634ad28a10aecbbe53ccbd.jpg",
+   "w": 180,
+   "h": 180,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-d4d95a.jpg"
+  },
+  "i4yv0p26_0": {
+   "uri": "346dd1_1a61aaa7b92c48f0b89384ffefe29d25.jpg",
+   "w": 2915,
+   "h": 2999,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-1a61aa.jpg"
+  },
+  "i4yv0p26": {
+   "uri": "346dd1_7d213f0d8e88480a8e51f0aed182071e.jpg",
+   "w": 2915,
+   "h": 2999,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-7d213f.jpg"
+  },
+  "i4yv0p25_0": {
+   "uri": "346dd1_0cead6373ec64ec88feb62b1fa7d436d.jpg",
+   "w": 2915,
+   "h": 2999,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-0cead6.jpg"
+  },
+  "i4yv0p27_2": {
+   "uri": "346dd1_de9f122c76dd44a9af4d0b53ae2f3244.jpg",
+   "w": 2915,
+   "h": 2999,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-de9f12.jpg"
+  },
+  "i4yv0p26_1": {
+   "uri": "346dd1_3958f0c82e9943f8a7741f89c0292a64.jpg",
+   "w": 3000,
+   "h": 3000,
+   "title": "",
+   "desc": [],
+   "alt": "Artwork by Michael Reigle Wagner",
+   "keywords": "",
+   "file": "resume/resume-3958f0.jpg"
+  }
+ }
+}
