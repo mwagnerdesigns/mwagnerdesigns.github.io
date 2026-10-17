@@ -63,7 +63,14 @@
     };
     nav.querySelector('.r-up').addEventListener('click', () => step(-1));
     nav.querySelector('.r-down').addEventListener('click', () => step(1));
-    nav.querySelector('.r-top').addEventListener('click', () => scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' }));
+    // Mandatory snapping cancels long smooth scrolls, so pause it for the trip back to the top.
+    nav.querySelector('.r-top').addEventListener('click', () => {
+      root.style.scrollSnapType = 'none';
+      const restore = () => { root.style.scrollSnapType = ''; removeEventListener('scrollend', restore); };
+      addEventListener('scrollend', restore);
+      setTimeout(restore, 3000);
+      scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' });
+    });
   }
 
   // ---- Viewer ----

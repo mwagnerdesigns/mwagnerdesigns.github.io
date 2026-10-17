@@ -1,6 +1,7 @@
 // Generates the site's HTML pages from tools/site-data.json.
 // Usage (from the repo root): node tools/build.mjs
 // To add artwork: drop images into images/web + images/thumb, add an item to site-data.json, rebuild.
+import crypto from 'crypto';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -25,6 +26,10 @@ const NAV = [
   ['/digital', 'Graphic Design'],
   ['/contact-', 'Contact'],
 ];
+
+// Content hash appended to asset URLs so each deploy busts browser and Cloudflare caches.
+const ver = f => crypto.createHash('sha1').update(fs.readFileSync(path.join(ROOT, f))).digest('hex').slice(0, 8);
+const ASSET = { css: `/assets/site.css?v=${ver('assets/site.css')}`, js: `/assets/site.js?v=${ver('assets/site.js')}` };
 
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const web = f => `/images/web/${f}`;
@@ -53,7 +58,7 @@ function layout({ slug, title, description, body, active, bodyClass = '' }) {
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="stylesheet" href="${ASSET.css}">
   <script>document.documentElement.classList.add('js')</script>
 </head>
 <body${bodyClass ? ` class="${bodyClass}"` : ''}>
@@ -86,7 +91,7 @@ ${body}
     <button class="v-btn v-prev" aria-label="Previous artwork">&#8249;</button>
     <button class="v-btn v-next" aria-label="Next artwork">&#8250;</button>
   </dialog>
-  <script src="/assets/site.js" defer></script>
+  <script src="${ASSET.js}" defer></script>
 </body>
 </html>
 `;
