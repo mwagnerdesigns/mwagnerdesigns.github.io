@@ -84,7 +84,8 @@ h2 { text-align: center; font-weight: 500; font-size: 20px; text-transform: uppe
 @media (max-width: 760px) {
   body { font-size: 16px; }
   .nav-toggle { display: block; margin: 0 auto; background: none; border: 0; color: #fff; font: inherit; font-weight: 500; padding: 12px; cursor: pointer; }
-  .nav-links { display: none; flex-direction: column; align-items: center; gap: 12px; padding: 0 0 16px; }
+  .site-nav { position: relative; }
+  .nav-links { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; align-items: center; gap: 14px; padding: 6px 0 20px; background: var(--bar); box-shadow: 0 14px 24px -14px rgba(0,0,0,.5); }
   .nav-links.open { display: flex; }
   .mediums { grid-template-columns: repeat(2, 1fr); gap: 28px 16px; }
   .about { grid-template-columns: 1fr; gap: 24px; }
@@ -138,11 +139,12 @@ html:has(body.reel-page) { scroll-snap-type: y mandatory; scroll-padding-top: va
   position: fixed; right: 18px; bottom: 22px; z-index: 4;
   display: flex; flex-direction: column; align-items: center; gap: 2px;
   font-size: 12px; color: var(--muted); letter-spacing: .08em;
-  opacity: 0; transition: opacity .4s;
+  opacity: 0; pointer-events: none; transition: opacity .4s;
 }
-.reel-nav.show { opacity: 1; }
+.reel-nav.show { opacity: 1; pointer-events: auto; }
 .reel-nav button { background: none; border: 0; color: var(--fg); font-size: 20px; line-height: 1; padding: 4px 8px; cursor: pointer; opacity: .6; }
 .reel-nav button:hover, .reel-nav button:focus-visible { opacity: 1; }
+.reel-nav .r-top { display: flex; flex-direction: column; align-items: center; gap: 2px; margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); font: 500 10px/1 Barlow, sans-serif; letter-spacing: .14em; text-transform: uppercase; }
 
 /* Viewer: expands the clicked piece without leaving the page */
 .viewer {

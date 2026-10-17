@@ -6,10 +6,20 @@
 
   const toggle = document.querySelector('.nav-toggle');
   const links = document.getElementById('nav-links');
-  toggle?.addEventListener('click', () => {
-    const open = links.classList.toggle('open');
-    toggle.setAttribute('aria-expanded', open);
+  // Mobile menu: opens from the Menu button; closes on a tap outside it or once the page scrolls.
+  let openedAt = 0;
+  const setMenu = open => {
+    links?.classList.toggle('open', open);
+    toggle?.setAttribute('aria-expanded', open);
+    if (open) openedAt = scrollY;
+  };
+  toggle?.addEventListener('click', () => setMenu(!links.classList.contains('open')));
+  document.addEventListener('click', e => {
+    if (links?.classList.contains('open') && !e.target.closest('.site-nav')) setMenu(false);
   });
+  addEventListener('scroll', () => {
+    if (links?.classList.contains('open') && Math.abs(scrollY - openedAt) > 12) setMenu(false);
+  }, { passive: true });
 
   // Keep the snap offset equal to the sticky header's real height.
   const header = document.querySelector('.site-header');
@@ -53,6 +63,7 @@
     };
     nav.querySelector('.r-up').addEventListener('click', () => step(-1));
     nav.querySelector('.r-down').addEventListener('click', () => step(1));
+    nav.querySelector('.r-top').addEventListener('click', () => scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' }));
   }
 
   // ---- Viewer ----
