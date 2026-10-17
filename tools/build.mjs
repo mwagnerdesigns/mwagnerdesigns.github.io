@@ -11,7 +11,7 @@ const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'tools/site-data.json'),
 const SITE = {
   name: 'Michael Reigle Wagner',
   url: 'https://michaelreiglewagner.com',
-  email: 'MWagnerDesigns@gmail.com',
+  email: 'info@michaelreiglewagner.com',
   phone: '(216) 407-6098',
   tel: '+12164076098',
   instagram: 'https://www.instagram.com/michaelwagnerart',
