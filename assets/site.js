@@ -1,4 +1,4 @@
-// Mobile menu, gallery reel (entrance animation + position counter), artwork viewer, mailto contact form.
+// Mobile menu, gallery reel (entrance animation + position counter), artwork viewer, Formspree contact form.
 (() => {
   const root = document.documentElement;
   const calm = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -170,11 +170,27 @@
   }
 
   const form = document.querySelector('.contact-form');
-  form?.addEventListener('submit', e => {
+  // Posts to Formspree in the background; without JS the form still posts and Formspree shows its own page.
+  form?.addEventListener('submit', async e => {
     e.preventDefault();
-    const f = new FormData(form);
-    const subject = f.get('subject') || `Website inquiry from ${f.get('name')}`;
-    const body = `${f.get('message')}\n\n— ${f.get('name')} (${f.get('email')})`;
-    location.href = `mailto:${form.dataset.to}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const status = form.querySelector('.form-status');
+    const button = form.querySelector('button');
+    const data = new FormData(form);
+    if (!data.get('_subject')) data.set('_subject', `Website inquiry from ${data.get('name')}`);
+    button.disabled = true;
+    status.className = 'form-status';
+    status.textContent = 'Sending…';
+    try {
+      const r = await fetch(form.action, { method: 'POST', body: data, headers: { Accept: 'application/json' } });
+      if (!r.ok) throw new Error((await r.json().catch(() => ({}))).errors?.map(x => x.message).join(', ') || r.status);
+      form.reset();
+      status.className = 'form-status ok';
+      status.textContent = 'Thanks! Your message was sent.';
+    } catch (err) {
+      status.className = 'form-status err';
+      status.textContent = 'Sorry, that didn’t send. Please email info@michaelreiglewagner.com directly.';
+    } finally {
+      button.disabled = false;
+    }
   });
 })();

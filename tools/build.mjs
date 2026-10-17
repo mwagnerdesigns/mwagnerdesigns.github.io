@@ -15,6 +15,7 @@ const SITE = {
   phone: '(216) 407-6098',
   tel: '+12164076098',
   instagram: 'https://www.instagram.com/michaelwagnerart',
+  formspree: 'https://formspree.io/f/xyekoaav', // delivers contact-form messages to info@
 };
 const NAV = [
   ['/', 'Home'],
@@ -207,13 +208,14 @@ write('contact-', layout({
       <p>MichaelReigleWagner.com is the official online portfolio for the artist/graphic designer Michael Reigle Wagner.</p>
       <p>For additional inquiry feel free to contact me.</p>
       <p class="contact-lines">Tel: <a href="tel:${SITE.tel}">${SITE.phone}</a> &nbsp;|&nbsp; <a href="mailto:${SITE.email}">${SITE.email}</a></p>
-      <form class="contact-form" data-to="${SITE.email}">
+      <form class="contact-form" action="${SITE.formspree}" method="POST">
         <label>Name <input name="name" required autocomplete="name"></label>
         <label>Email <input name="email" type="email" required autocomplete="email"></label>
-        <label>Subject <input name="subject"></label>
+        <label>Subject <input name="_subject"></label>
         <label class="msg">Message <textarea name="message" rows="7" required></textarea></label>
+        <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp">
         <button type="submit">Send</button>
-        <p class="form-hint">Opens your email app with the message filled in.</p>
+        <p class="form-status" role="status" aria-live="polite"></p>
       </form>
     </section>`,
 }));
