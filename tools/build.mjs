@@ -30,7 +30,7 @@ const web = f => `/images/web/${f}`;
 const thumb = f => `/images/thumb/${f}`;
 const fit = (w, h, max) => { const s = Math.min(1, max / Math.max(w, h)); return [Math.round(w * s), Math.round(h * s)]; };
 
-function layout({ slug, title, description, body, active }) {
+function layout({ slug, title, description, body, active, bodyClass = '' }) {
   const canonical = SITE.url + (slug === 'index' ? '/' : '/' + slug);
   const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} | Art`;
   const nav = NAV.map(([href, label]) =>
@@ -53,8 +53,9 @@ function layout({ slug, title, description, body, active }) {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/site.css">
+  <script>document.documentElement.classList.add('js')</script>
 </head>
-<body>
+<body${bodyClass ? ` class="${bodyClass}"` : ''}>
   <a class="skip" href="#main">Skip to main content</a>
   <header class="site-header">
     <nav class="site-nav" aria-label="Main">
@@ -74,14 +75,15 @@ ${body}
     </a>
     <p>A Michael Wagner Production &middot; &copy; ${new Date().getFullYear()} ${esc(SITE.name)}</p>
   </footer>
-  <dialog class="lightbox" aria-label="Image preview">
+  <dialog class="viewer" aria-label="Artwork viewer">
     <figure>
       <img alt="">
       <figcaption></figcaption>
     </figure>
-    <button class="lb-btn lb-close" aria-label="Close">&times;</button>
-    <button class="lb-btn lb-prev" aria-label="Previous image">&#8249;</button>
-    <button class="lb-btn lb-next" aria-label="Next image">&#8250;</button>
+    <p class="v-count" aria-live="polite"></p>
+    <button class="v-btn v-close" aria-label="Close">&times;</button>
+    <button class="v-btn v-prev" aria-label="Previous artwork">&#8249;</button>
+    <button class="v-btn v-next" aria-label="Next artwork">&#8250;</button>
   </dialog>
   <script src="/assets/site.js" defer></script>
 </body>
@@ -89,33 +91,42 @@ ${body}
 `;
 }
 
-// One clickable artwork; data-* attributes feed the lightbox.
-function art(i, cls = 'tile', max = 700) {
-  const [w, h] = fit(i.w, i.h, max);
-  const src = max > 700 ? web(i.file) : thumb(i.file);
-  return `<a class="${cls}" href="${web(i.file)}" data-title="${esc(i.title)}" data-desc="${esc(i.desc.join('\n'))}">` +
-    `<img src="${src}" width="${w}" height="${h}" loading="lazy" decoding="async" alt="${esc(i.alt)}">` +
-    (i.title || i.desc.length ? `<span class="cap"><strong>${esc(i.title)}</strong>${i.desc.length ? `<small>${esc(i.desc.join(' · '))}</small>` : ''}</span>` : '') +
-    `</a>`;
+// One artwork per screen. The <a> points at the large image so it still works without JS;
+// site.js turns the click into the in-page viewer.
+function slide(i) {
+  const [w, h] = fit(i.w, i.h, 2000);
+  const cap = i.title || i.desc.length
+    ? `\n        <figcaption><strong>${esc(i.title)}</strong>${i.desc.length ? `<span>${esc(i.desc.join(' · '))}</span>` : ''}</figcaption>`
+    : '';
+  return `      <figure class="slide art">
+        <a class="frame" href="${web(i.file)}" data-title="${esc(i.title)}" data-desc="${esc(i.desc.join(' · '))}">` +
+    `<img src="${thumb(i.file)}" srcset="${thumb(i.file)} ${fit(i.w, i.h, 700)[0]}w, ${web(i.file)} ${w}w" ` +
+    `sizes="(max-width: 760px) 92vw, 70vw" width="${w}" height="${h}" loading="lazy" decoding="async" alt="${esc(i.alt)}"></a>${cap}
+      </figure>`;
 }
 
 function renderBlocks(blocks) {
-  const out = [];
-  for (let k = 0; k < blocks.length; k++) {
-    const b = blocks[k];
-    if (b.type === 'heading') out.push(`    <h1>${esc(b.text)}</h1>`);
-    else if (b.type === 'subheading') out.push(`    <h2>${esc(b.text)}</h2>`);
-    else if (b.type === 'note') out.push(`    <p class="note">${esc(b.text)}</p>`);
-    else if (b.type === 'link') out.push(`    <p class="more"><a href="${b.href}">${esc(b.text)} &rarr;</a></p>`);
-    else if (b.type === 'gallery') out.push(`    <div class="gallery">\n      ${b.items.map(i => art(i)).join('\n      ')}\n    </div>`);
-    else if (b.type === 'image') {
-      // Consecutive portrait-format standalone images sit side by side, as on the original site.
-      const run = [b];
-      while (blocks[k + 1]?.type === 'image' && b.item.h > b.item.w && blocks[k + 1].item.h > blocks[k + 1].item.w) run.push(blocks[++k]);
-      out.push(`    <div class="featured${run.length > 1 ? ' pair' : ''}">\n      ${run.map(r => art(r.item, 'feature', 2000)).join('\n      ')}\n    </div>`);
-    }
+  const intro = [], reel = [];
+  for (const b of blocks) {
+    if (b.type === 'heading') intro.push(`      <h1>${esc(b.text)}</h1>`);
+    else if (b.type === 'subheading') reel.push(`      <section class="slide chapter"><h2>${esc(b.text)}</h2></section>`);
+    else if (b.type === 'link') reel.push(`      <p class="more"><a href="${b.href}">${esc(b.text)} &rarr;</a></p>`);
+    else if (b.type === 'gallery') reel.push(...b.items.map(slide));
+    else if (b.type === 'image') reel.push(slide(b.item));
   }
-  return out.join('\n');
+  intro.push('      <p class="note">Scroll to explore &middot; click any piece to expand</p>');
+  return `    <section class="slide intro">
+${intro.join('\n')}
+      <span class="cue" aria-hidden="true"></span>
+    </section>
+    <div class="reel">
+${reel.join('\n')}
+    </div>
+    <nav class="reel-nav" aria-label="Gallery position">
+      <button class="r-up" aria-label="Previous artwork">&#8963;</button>
+      <span class="r-count"></span>
+      <button class="r-down" aria-label="Next artwork">&#8964;</button>
+    </nav>`;
 }
 
 function write(slug, html) {
@@ -150,7 +161,7 @@ for (const [slug, p] of Object.entries(data.pages)) {
       return out;
     });
   }
-  write(slug, layout({ slug, title: p.title, description: descriptions[slug], active: activeFor[slug] || '/' + slug, body: renderBlocks(blocks) }));
+  write(slug, layout({ slug, title: p.title, description: descriptions[slug], active: activeFor[slug] || '/' + slug, bodyClass: 'reel-page', body: renderBlocks(blocks) }));
 }
 
 // Home

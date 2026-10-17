@@ -16,6 +16,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/site.css">
+  <script>document.documentElement.classList.add('js')</script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to main content</a>
@@ -43,14 +44,15 @@
     </a>
     <p>A Michael Wagner Production &middot; &copy; 2026 Michael Reigle Wagner</p>
   </footer>
-  <dialog class="lightbox" aria-label="Image preview">
+  <dialog class="viewer" aria-label="Artwork viewer">
     <figure>
       <img alt="">
       <figcaption></figcaption>
     </figure>
-    <button class="lb-btn lb-close" aria-label="Close">&times;</button>
-    <button class="lb-btn lb-prev" aria-label="Previous image">&#8249;</button>
-    <button class="lb-btn lb-next" aria-label="Next image">&#8250;</button>
+    <p class="v-count" aria-live="polite"></p>
+    <button class="v-btn v-close" aria-label="Close">&times;</button>
+    <button class="v-btn v-prev" aria-label="Previous artwork">&#8249;</button>
+    <button class="v-btn v-next" aria-label="Next artwork">&#8250;</button>
   </dialog>
   <script src="/assets/site.js" defer></script>
 </body>
